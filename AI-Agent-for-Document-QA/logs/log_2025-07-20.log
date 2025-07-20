@@ -1,0 +1,54 @@
+2025-07-20 15:23:01,940 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 15:23:07,329 - WARNING -Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-07-20 15:23:49,524 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 15:23:54,778 - INFO -Get images from PDF to show in Streamlit
+2025-07-20 15:23:54,779 - INFO -Images do not exist, converting PDF to images
+2025-07-20 15:23:54,780 - ERROR -Error while converting PDF to images: Unable to get page count. Is poppler installed and in PATH?
+2025-07-20 15:23:54,780 - ERROR -Error while showing PDF in Streamlit: Error occurred in : [C:\Users\priya\OneDrive\Desktop\AI Hack\AI-Agent-for-Document-QA\app\ui_helpers.py] at line number: [26] error message: [Error while converting PDF to images]
+2025-07-20 15:32:12,796 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 15:32:26,115 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 15:32:31,250 - INFO -Get images from PDF to show in Streamlit
+2025-07-20 15:32:31,251 - INFO -Images do not exist, converting PDF to images
+2025-07-20 15:32:31,253 - ERROR -Error while converting PDF to images: Unable to get page count. Is poppler installed and in PATH?
+2025-07-20 15:32:31,253 - ERROR -Error while showing PDF in Streamlit: Error occurred in : [C:\Users\priya\OneDrive\Desktop\AI Hack\AI-Agent-for-Document-QA\app\ui_helpers.py] at line number: [26] error message: [Error while converting PDF to images]
+2025-07-20 15:50:20,104 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 15:50:35,759 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 15:50:40,561 - INFO -Get images from PDF to show in Streamlit
+2025-07-20 15:50:40,562 - INFO -Images do not exist, converting PDF to images
+2025-07-20 15:50:58,125 - INFO -Converting PDF to images successfully
+2025-07-20 15:51:15,102 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 15:51:19,882 - INFO -Get images from PDF to show in Streamlit
+2025-07-20 15:51:19,882 - INFO -Images already exist
+2025-07-20 15:51:24,640 - INFO -Loading existing images successfully
+2025-07-20 15:51:26,329 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 15:51:31,075 - INFO -Get images from PDF to show in Streamlit
+2025-07-20 15:51:31,076 - INFO -Images already exist
+2025-07-20 15:51:35,352 - INFO -Loading existing images successfully
+2025-07-20 15:51:41,536 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 15:51:46,739 - INFO -Get images from PDF to show in Streamlit
+2025-07-20 15:51:46,740 - INFO -Images already exist
+2025-07-20 15:51:51,001 - INFO -Loading existing images successfully
+2025-07-20 15:51:51,004 - INFO -################# Creating Vector Store Pipeline ######################
+2025-07-20 15:51:51,004 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\BAJHLIP23020V012223\BAJHLIP23020V012223.pdf
+2025-07-20 15:51:51,213 - INFO -PDF loaded successfully with page metadata.
+2025-07-20 15:51:51,213 - INFO -Creating Vector Store: BAJHLIP23020V012223
+2025-07-20 15:51:51,940 - INFO -Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-20 15:51:57,241 - INFO -Creating Vector Store SUCCESSFULLY
+2025-07-20 15:51:57,241 - INFO -################# Vector Store created successfully ###############
+2025-07-20 15:51:57,242 - INFO -################# Summarizing ######################
+2025-07-20 15:51:57,242 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\BAJHLIP23020V012223\BAJHLIP23020V012223.pdf
+2025-07-20 15:51:57,377 - INFO -PDF loaded successfully with page metadata.
+2025-07-20 15:56:41,632 - INFO -################# Summarizing SUCCESSFULLY ######################
+2025-07-20 15:56:46,504 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 15:56:52,277 - INFO -Get images from PDF to show in Streamlit
+2025-07-20 15:56:52,278 - INFO -Images already exist
+2025-07-20 15:56:56,570 - INFO -Loading existing images successfully
+2025-07-20 15:56:56,736 - INFO -Creating RAG chain
+2025-07-20 15:56:57,636 - INFO -RAG chain created SUCCESFULLY
+2025-07-20 15:57:03,883 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-20 16:08:41,989 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 16:08:56,143 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 16:08:59,988 - INFO -Get images from PDF to show in Streamlit
+2025-07-20 16:08:59,989 - INFO -Images already exist
+2025-07-20 16:09:04,587 - INFO -Loading existing images successfully
+2025-07-20 16:09:05,392 - INFO -Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.

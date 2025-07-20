@@ -1,0 +1,1495 @@
+2025-06-07 16:09:10,459 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 16:11:01,690 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 16:11:29,821 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 16:11:38,309 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 16:11:45,154 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 16:11:59,475 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 16:12:02,964 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 16:12:03,054 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 16:12:06,480 - INFO -Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-07 17:31:03,115 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:31:10,906 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:31:13,983 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 17:31:13,984 - INFO -Images do not exist, converting PDF to images
+2025-06-07 17:31:15,238 - INFO -converting PDF to images Successfully
+2025-06-07 17:31:16,807 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:31:19,947 - INFO -Loading PDF and vector store previously processed
+2025-06-07 17:31:19,947 - INFO -PDF and vector store loaded successfully
+2025-06-07 17:31:24,095 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:31:26,413 - INFO -Loading PDF and vector store previously processed
+2025-06-07 17:31:26,413 - INFO -PDF and vector store loaded successfully
+2025-06-07 17:31:40,906 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:31:43,785 - INFO -Loading PDF and vector store previously processed
+2025-06-07 17:31:43,785 - INFO -PDF and vector store loaded successfully
+2025-06-07 17:32:26,913 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:32:29,684 - INFO -Loading PDF and vector store previously processed
+2025-06-07 17:32:29,684 - INFO -PDF and vector store loaded successfully
+2025-06-07 17:32:30,962 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:32:31,062 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:32:33,022 - INFO -Loading PDF and vector store previously processed
+2025-06-07 17:32:33,022 - INFO -PDF and vector store loaded successfully
+2025-06-07 17:32:33,024 - INFO -Answering question in streamlit
+2025-06-07 17:32:33,024 - ERROR -Error while answering question in streamlit: name 'vector_store' is not defined
+2025-06-07 17:32:33,319 - INFO -Loading PDF and vector store previously processed
+2025-06-07 17:32:33,319 - INFO -PDF and vector store loaded successfully
+2025-06-07 17:33:24,630 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:33:26,245 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:33:27,140 - INFO -Loading PDF and vector store previously processed
+2025-06-07 17:33:27,140 - INFO -PDF and vector store loaded successfully
+2025-06-07 17:33:31,462 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:33:34,170 - INFO -Loading PDF and vector store previously processed
+2025-06-07 17:33:34,170 - INFO -PDF and vector store loaded successfully
+2025-06-07 17:34:16,543 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:34:21,470 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:34:23,800 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 17:34:23,801 - INFO -Images do not exist, converting PDF to images
+2025-06-07 17:34:24,730 - INFO -converting PDF to images Successfully
+2025-06-07 17:34:27,719 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:34:30,294 - INFO -Loading PDF and vector store previously processed
+2025-06-07 17:34:30,294 - INFO -PDF and vector store loaded successfully
+2025-06-07 17:36:46,962 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:36:51,606 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:36:54,050 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 17:36:54,051 - INFO -Images do not exist, converting PDF to images
+2025-06-07 17:36:54,903 - INFO -converting PDF to images Successfully
+2025-06-07 17:37:04,420 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:37:06,566 - INFO -Loading PDF and vector store previously processed
+2025-06-07 17:37:06,567 - INFO -PDF and vector store loaded successfully
+2025-06-07 17:38:55,062 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:39:14,308 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:39:16,442 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 17:39:16,442 - INFO -Images do not exist, converting PDF to images
+2025-06-07 17:39:17,402 - INFO -converting PDF to images Successfully
+2025-06-07 17:39:42,733 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:39:45,068 - INFO -Loading PDF and vector store previously processed
+2025-06-07 17:39:45,068 - INFO -PDF and vector store loaded successfully
+2025-06-07 17:40:26,188 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:40:30,186 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:40:32,623 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 17:40:32,624 - INFO -Images already exist
+2025-06-07 17:40:32,676 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:40:32,731 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:40:32,825 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:40:32,883 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:40:44,080 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:40:46,754 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 17:40:46,754 - INFO -Images already exist
+2025-06-07 17:40:46,797 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:40:46,873 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:40:46,976 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:40:47,032 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:40:47,034 - INFO -Processing PDF
+2025-06-07 17:40:47,034 - INFO -PDF saved successfully at tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 17:40:47,034 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 17:40:47,037 - ERROR -An unexpected error occurred while opening the document module-0-5-8.pdf
+Traceback (most recent call last):
+  File "C:\Users\wesgb\.conda\envs\ai-document-qa\lib\site-packages\docling\datamodel\document.py", line 137, in __init__
+    self._init_doc(backend, path_or_stream)
+  File "C:\Users\wesgb\.conda\envs\ai-document-qa\lib\site-packages\docling\datamodel\document.py", line 186, in _init_doc
+    self._backend = backend(self, path_or_stream=path_or_stream)
+  File "C:\Users\wesgb\.conda\envs\ai-document-qa\lib\site-packages\docling\backend\docling_parse_v4_backend.py", line 149, in __init__
+    self._pdoc = pdfium.PdfDocument(self.path_or_stream)
+  File "C:\Users\wesgb\.conda\envs\ai-document-qa\lib\site-packages\pypdfium2\_helpers\document.py", line 78, in __init__
+    self.raw, to_hold, to_close = _open_pdf(self._input, self._password, self._autoclose)
+  File "C:\Users\wesgb\.conda\envs\ai-document-qa\lib\site-packages\pypdfium2\_helpers\document.py", line 678, in _open_pdf
+    raise PdfiumError(f"Failed to load document (PDFium: {pdfium_i.ErrorToStr.get(err_code)}).")
+pypdfium2._helpers.misc.PdfiumError: Failed to load document (PDFium: Data format error).
+2025-06-07 17:40:47,076 - INFO -Going to convert document batch...
+2025-06-07 17:40:47,076 - ERROR -Error while loading and converting document: Input document tmp\vector_store\module-0-5-8\module-0-5-8.pdf is not valid.
+2025-06-07 17:40:47,076 - ERROR -Error while processing PDF in streamlit: Error occurred in : [C:\All files\AI-Agent-Document-QA\core\document_loader.py] at line number: [11] error message: [Error while loading and converting document]
+2025-06-07 17:44:54,569 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:44:56,935 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 17:44:56,936 - INFO -Images already exist
+2025-06-07 17:44:56,977 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:44:57,027 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:44:57,123 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:44:57,175 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:44:57,177 - INFO -Processing PDF
+2025-06-07 17:44:57,177 - INFO -PDF saved successfully at tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 17:44:57,178 - INFO -CREATING PIPEPLINE
+2025-06-07 17:44:57,178 - INFO -PIPEPLINE CREATED
+2025-06-07 17:44:57,178 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 17:44:58,052 - INFO -Going to convert document batch...
+2025-06-07 17:44:58,052 - INFO -Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+2025-06-07 17:44:58,073 - INFO -Loading plugin 'docling_defaults'
+2025-06-07 17:44:58,073 - INFO -Registered ocr engines: ['easyocr', 'ocrmac', 'rapidocr', 'tesserocr', 'tesseract']
+2025-06-07 17:44:58,205 - INFO -Accelerator device: 'cpu'
+2025-06-07 17:44:59,706 - INFO -Accelerator device: 'cpu'
+2025-06-07 17:45:00,920 - INFO -Accelerator device: 'cpu'
+2025-06-07 17:45:01,561 - INFO -Loading plugin 'docling_defaults'
+2025-06-07 17:45:01,561 - INFO -Registered picture descriptions: ['vlm', 'api']
+2025-06-07 17:45:01,561 - INFO -Processing document module-0-5-8.pdf
+2025-06-07 17:45:24,518 - INFO -Finished converting document module-0-5-8.pdf in 27.33 sec.
+2025-06-07 17:45:24,518 - INFO -Loading and converting document SUCCESSFULLY: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 17:45:24,537 - INFO -Splitting document
+2025-06-07 17:45:24,537 - INFO -Splitting document SUCCESSFULLY
+2025-06-07 17:45:24,538 - INFO -Creating Vector Store: module-0-5-8
+2025-06-07 17:45:24,886 - INFO -Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-07 17:45:27,862 - INFO -Creating Vector Store SUCCESSFULLY
+2025-06-07 17:45:27,865 - INFO -PDF processed successfully
+2025-06-07 17:46:11,912 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:46:14,447 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 17:46:14,447 - INFO -Images already exist
+2025-06-07 17:46:14,489 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:46:14,539 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:46:14,629 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:46:14,732 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:46:18,628 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:46:18,718 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:46:21,799 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 17:46:21,799 - INFO -Images already exist
+2025-06-07 17:46:21,843 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:46:21,893 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:46:21,941 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:46:22,006 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:46:28,938 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:46:32,700 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 17:46:32,700 - INFO -Images already exist
+2025-06-07 17:46:32,752 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:46:32,870 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:46:32,962 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:46:33,067 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:46:40,942 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:46:41,127 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:46:41,323 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:46:43,032 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:46:44,888 - INFO -Loading PDF and vector store previously processed
+2025-06-07 17:46:44,888 - INFO -Loading Images processed
+2025-06-07 17:46:44,888 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 17:46:44,888 - INFO -Images already exist
+2025-06-07 17:46:44,926 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:46:45,002 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:46:45,088 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:46:45,187 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:46:45,188 - INFO -Check if the directory tmp\vector_store\module-0-5-8\db exists
+2025-06-07 17:46:45,209 - INFO -Directory exists and vector store loaded successfully
+2025-06-07 17:46:45,209 - INFO -PDF and vector store loaded successfully
+2025-06-07 17:46:46,302 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:46:48,758 - INFO -Loading PDF and vector store previously processed
+2025-06-07 17:46:48,758 - INFO -Loading Images processed
+2025-06-07 17:46:48,758 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 17:46:48,758 - INFO -Images already exist
+2025-06-07 17:46:48,800 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:46:48,880 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:46:48,961 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:46:49,021 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:46:49,023 - INFO -Check if the directory tmp\vector_store\module-0-5-8\db exists
+2025-06-07 17:46:49,041 - INFO -Directory exists and vector store loaded successfully
+2025-06-07 17:46:49,041 - INFO -PDF and vector store loaded successfully
+2025-06-07 17:46:49,044 - INFO -Answering question in streamlit
+2025-06-07 17:46:49,047 - INFO -Creating RAG chain
+2025-06-07 17:46:49,230 - ERROR -Error using RAG Chain: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-06-07 17:46:49,230 - ERROR -Error while answering question in streamlit: Error occurred in : [C:\All files\AI-Agent-Document-QA\core\chain_builder.py] at line number: [22] error message: [Error using RAG Chain]
+2025-06-07 17:47:24,854 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:47:27,610 - INFO -Loading PDF and vector store previously processed
+2025-06-07 17:47:27,610 - INFO -Loading Images processed
+2025-06-07 17:47:27,610 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 17:47:27,610 - INFO -Images already exist
+2025-06-07 17:47:27,648 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:47:27,745 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:47:27,833 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:47:27,884 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:47:27,884 - INFO -Check if the directory tmp\vector_store\module-0-5-8\db exists
+2025-06-07 17:47:27,903 - INFO -Directory exists and vector store loaded successfully
+2025-06-07 17:47:27,903 - INFO -PDF and vector store loaded successfully
+2025-06-07 17:47:27,904 - INFO -Answering question in streamlit
+2025-06-07 17:47:27,905 - INFO -Creating RAG chain
+2025-06-07 17:47:27,905 - ERROR -Error using RAG Chain: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-06-07 17:47:27,905 - ERROR -Error while answering question in streamlit: Error occurred in : [C:\All files\AI-Agent-Document-QA\core\chain_builder.py] at line number: [22] error message: [Error using RAG Chain]
+2025-06-07 17:47:52,771 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:47:55,081 - INFO -Loading PDF and vector store previously processed
+2025-06-07 17:47:55,081 - INFO -Loading Images processed
+2025-06-07 17:47:55,081 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 17:47:55,081 - INFO -Images already exist
+2025-06-07 17:47:55,119 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:47:55,168 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:47:55,232 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:47:55,333 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:47:55,334 - INFO -Check if the directory tmp\vector_store\module-0-5-8\db exists
+2025-06-07 17:47:55,350 - INFO -Directory exists and vector store loaded successfully
+2025-06-07 17:47:55,350 - INFO -PDF and vector store loaded successfully
+2025-06-07 17:47:56,057 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:47:58,233 - INFO -Loading PDF and vector store previously processed
+2025-06-07 17:47:58,233 - INFO -Loading Images processed
+2025-06-07 17:47:58,233 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 17:47:58,234 - INFO -Images already exist
+2025-06-07 17:47:58,272 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:47:58,323 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:47:58,370 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:47:58,422 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:47:58,423 - INFO -Check if the directory tmp\vector_store\module-0-5-8\db exists
+2025-06-07 17:47:58,442 - INFO -Directory exists and vector store loaded successfully
+2025-06-07 17:47:58,442 - INFO -PDF and vector store loaded successfully
+2025-06-07 17:47:58,444 - INFO -Answering question in streamlit
+2025-06-07 17:47:58,444 - INFO -Creating RAG chain
+2025-06-07 17:47:58,800 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 17:48:01,049 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 17:54:07,631 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:54:25,671 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:54:29,130 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 17:54:29,131 - INFO -Images do not exist, converting PDF to images
+2025-06-07 17:54:29,980 - INFO -converting PDF to images Successfully
+2025-06-07 17:54:30,786 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:54:32,575 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 17:54:32,575 - INFO -Images already exist
+2025-06-07 17:54:32,621 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:54:32,720 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:54:32,812 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:54:32,866 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:54:32,869 - INFO -Processing PDF
+2025-06-07 17:54:32,870 - INFO -PDF saved successfully at tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 17:54:32,870 - INFO -CREATING PIPEPLINE
+2025-06-07 17:54:32,871 - INFO -PIPEPLINE CREATED
+2025-06-07 17:54:32,871 - INFO -################# Creating Vector Store Pipeline ######################
+2025-06-07 17:54:32,871 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 17:54:32,889 - INFO -Going to convert document batch...
+2025-06-07 17:54:32,889 - INFO -Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+2025-06-07 17:54:32,889 - INFO -Accelerator device: 'cpu'
+2025-06-07 17:54:35,148 - INFO -Accelerator device: 'cpu'
+2025-06-07 17:54:36,060 - INFO -Accelerator device: 'cpu'
+2025-06-07 17:54:36,472 - INFO -Processing document module-0-5-8.pdf
+2025-06-07 17:55:01,190 - INFO -Finished converting document module-0-5-8.pdf in 28.31 sec.
+2025-06-07 17:55:01,191 - INFO -Loading and converting document SUCCESSFULLY: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 17:55:01,199 - INFO -Splitting document
+2025-06-07 17:55:01,199 - INFO -Splitting document SUCCESSFULLY
+2025-06-07 17:55:01,199 - INFO -Creating Vector Store: module-0-5-8
+2025-06-07 17:55:01,219 - INFO -Creating Vector Store SUCCESSFULLY
+2025-06-07 17:55:01,219 - INFO -################# Vector Store created successfully ###############
+2025-06-07 17:55:01,219 - INFO -PDF processed successfully
+2025-06-07 17:55:15,462 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:55:18,391 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 17:55:18,392 - INFO -Images already exist
+2025-06-07 17:55:18,438 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:55:18,531 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:55:18,602 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:55:18,698 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:55:21,969 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 17:55:24,338 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 17:55:24,340 - INFO -Images already exist
+2025-06-07 17:55:24,387 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:55:24,437 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:55:24,521 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:55:24,615 - INFO -Loading images from PDF already existed successfully
+2025-06-07 17:55:24,618 - INFO -Answering question in streamlit
+2025-06-07 17:55:24,618 - ERROR -Error while answering question in streamlit: name 'vector_store' is not defined
+2025-06-07 18:00:14,331 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:00:16,975 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:00:16,975 - INFO -Images already exist
+2025-06-07 18:00:17,017 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:00:17,115 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:00:17,207 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:00:17,304 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:00:22,595 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:00:28,681 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:00:30,647 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:00:30,648 - INFO -Images already exist
+2025-06-07 18:00:30,689 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:00:30,739 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:00:30,783 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:00:30,879 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:00:31,920 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:00:33,883 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:00:33,884 - INFO -Images already exist
+2025-06-07 18:00:33,923 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:00:33,980 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:00:34,071 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:00:34,168 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:00:34,170 - INFO -Processing PDF
+2025-06-07 18:00:34,171 - INFO -PDF saved successfully at tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 18:00:34,171 - INFO -CREATING PIPEPLINE
+2025-06-07 18:00:34,171 - INFO -PIPEPLINE CREATED
+2025-06-07 18:00:34,171 - INFO -################# Creating Vector Store Pipeline ######################
+2025-06-07 18:00:34,171 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 18:00:34,184 - INFO -Going to convert document batch...
+2025-06-07 18:00:34,186 - INFO -Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+2025-06-07 18:00:34,186 - INFO -Accelerator device: 'cpu'
+2025-06-07 18:00:36,100 - INFO -Accelerator device: 'cpu'
+2025-06-07 18:00:37,044 - INFO -Accelerator device: 'cpu'
+2025-06-07 18:00:37,406 - INFO -Processing document module-0-5-8.pdf
+2025-06-07 18:01:01,567 - INFO -Finished converting document module-0-5-8.pdf in 27.39 sec.
+2025-06-07 18:01:01,568 - INFO -Loading and converting document SUCCESSFULLY: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 18:01:01,576 - INFO -Splitting document
+2025-06-07 18:01:01,576 - INFO -Splitting document SUCCESSFULLY
+2025-06-07 18:01:01,577 - INFO -Creating Vector Store: module-0-5-8
+2025-06-07 18:01:01,597 - INFO -Creating Vector Store SUCCESSFULLY
+2025-06-07 18:01:01,597 - INFO -################# Vector Store created successfully ###############
+2025-06-07 18:01:01,599 - INFO -PDF processed successfully
+2025-06-07 18:01:11,420 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:01:14,865 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:01:14,865 - INFO -Images already exist
+2025-06-07 18:01:14,906 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:01:15,001 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:01:15,048 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:01:15,148 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:01:15,152 - INFO -Answering question in streamlit
+2025-06-07 18:01:15,172 - ERROR -Error while answering question in streamlit: name 'pipeline' is not defined
+2025-06-07 18:02:27,960 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:02:30,117 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:02:30,117 - INFO -Images already exist
+2025-06-07 18:02:30,157 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:02:30,254 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:02:30,302 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:02:30,399 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:02:31,407 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:02:33,598 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:02:33,599 - INFO -Images already exist
+2025-06-07 18:02:33,640 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:02:33,692 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:02:33,736 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:02:33,809 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:02:33,812 - INFO -Answering question in streamlit
+2025-06-07 18:02:33,834 - INFO -Creating RAG chain
+2025-06-07 18:02:33,834 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 18:02:35,076 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 18:04:06,075 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:04:12,197 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:04:14,883 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:04:14,883 - INFO -Images do not exist, converting PDF to images
+2025-06-07 18:04:15,815 - INFO -converting PDF to images Successfully
+2025-06-07 18:04:16,654 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:04:18,714 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:04:18,714 - INFO -Images already exist
+2025-06-07 18:04:18,762 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:04:18,859 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:04:18,954 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:04:19,058 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:04:19,059 - INFO -Processing PDF
+2025-06-07 18:04:19,060 - INFO -PDF saved successfully at tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 18:04:19,060 - INFO -################# Creating Vector Store Pipeline ######################
+2025-06-07 18:04:19,060 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 18:04:19,094 - INFO -Going to convert document batch...
+2025-06-07 18:04:19,095 - INFO -Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+2025-06-07 18:04:19,106 - INFO -Loading plugin 'docling_defaults'
+2025-06-07 18:04:19,107 - INFO -Registered ocr engines: ['easyocr', 'ocrmac', 'rapidocr', 'tesserocr', 'tesseract']
+2025-06-07 18:04:19,140 - INFO -Accelerator device: 'cpu'
+2025-06-07 18:04:21,161 - INFO -Accelerator device: 'cpu'
+2025-06-07 18:04:22,340 - INFO -Accelerator device: 'cpu'
+2025-06-07 18:04:22,804 - INFO -Loading plugin 'docling_defaults'
+2025-06-07 18:04:22,804 - INFO -Registered picture descriptions: ['vlm', 'api']
+2025-06-07 18:04:22,805 - INFO -Processing document module-0-5-8.pdf
+2025-06-07 18:04:47,934 - INFO -Finished converting document module-0-5-8.pdf in 28.88 sec.
+2025-06-07 18:04:47,934 - INFO -Loading and converting document SUCCESSFULLY: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 18:04:47,956 - INFO -Splitting document
+2025-06-07 18:04:47,956 - INFO -Splitting document SUCCESSFULLY
+2025-06-07 18:04:47,956 - INFO -Creating Vector Store: module-0-5-8
+2025-06-07 18:04:48,154 - INFO -Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-07 18:04:50,462 - INFO -Creating Vector Store SUCCESSFULLY
+2025-06-07 18:04:50,462 - INFO -################# Vector Store created successfully ###############
+2025-06-07 18:04:50,464 - INFO -PDF processed successfully
+2025-06-07 18:05:03,409 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:05:06,197 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:05:06,197 - INFO -Images already exist
+2025-06-07 18:05:06,237 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:05:06,334 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:05:06,424 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:05:06,522 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:05:10,713 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:05:10,782 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:05:13,129 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:05:13,129 - INFO -Images already exist
+2025-06-07 18:05:13,169 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:05:13,257 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:05:13,348 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:05:13,449 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:05:13,455 - INFO -Answering question in streamlit
+2025-06-07 18:05:13,626 - INFO -Creating RAG chain
+2025-06-07 18:05:14,097 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 18:05:15,630 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 18:12:49,624 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:12:52,040 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:12:52,040 - INFO -Images already exist
+2025-06-07 18:12:52,079 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:12:52,129 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:12:52,220 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:12:52,319 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:12:56,234 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:12:57,981 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:13:00,693 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:13:00,694 - INFO -Images already exist
+2025-06-07 18:13:00,745 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:13:00,814 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:13:00,906 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:13:01,005 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:13:01,795 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:13:03,615 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:13:03,616 - INFO -Images already exist
+2025-06-07 18:13:03,671 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:13:03,727 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:13:03,773 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:13:03,868 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:13:03,870 - INFO -Processing PDF
+2025-06-07 18:13:03,870 - INFO -PDF saved successfully at tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 18:13:03,870 - INFO -################# Creating Vector Store Pipeline ######################
+2025-06-07 18:13:03,870 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 18:13:03,884 - INFO -Going to convert document batch...
+2025-06-07 18:13:03,884 - INFO -Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+2025-06-07 18:13:03,884 - INFO -Accelerator device: 'cpu'
+2025-06-07 18:13:06,124 - INFO -Accelerator device: 'cpu'
+2025-06-07 18:13:07,076 - INFO -Accelerator device: 'cpu'
+2025-06-07 18:13:07,337 - INFO -Processing document module-0-5-8.pdf
+2025-06-07 18:13:31,680 - INFO -Finished converting document module-0-5-8.pdf in 27.80 sec.
+2025-06-07 18:13:31,680 - INFO -Loading and converting document SUCCESSFULLY: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 18:13:31,688 - INFO -Splitting document
+2025-06-07 18:13:31,688 - INFO -Splitting document SUCCESSFULLY
+2025-06-07 18:13:31,688 - INFO -Creating Vector Store: module-0-5-8
+2025-06-07 18:13:31,707 - INFO -Creating Vector Store SUCCESSFULLY
+2025-06-07 18:13:31,707 - INFO -################# Vector Store created successfully ###############
+2025-06-07 18:13:31,708 - ERROR -Error while processing PDF in streamlit: name 'vector_store' is not defined
+2025-06-07 18:15:34,161 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:15:41,030 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:15:43,263 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:15:43,264 - INFO -Images do not exist, converting PDF to images
+2025-06-07 18:15:44,143 - INFO -converting PDF to images Successfully
+2025-06-07 18:15:47,659 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:15:49,351 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:15:49,351 - INFO -Images already exist
+2025-06-07 18:15:49,405 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:15:49,480 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:15:49,580 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:15:49,664 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:15:49,666 - INFO -Processing PDF
+2025-06-07 18:15:49,667 - INFO -PDF saved successfully at tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 18:15:49,667 - INFO -################# Creating Vector Store Pipeline ######################
+2025-06-07 18:15:49,667 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 18:15:49,694 - INFO -Going to convert document batch...
+2025-06-07 18:15:49,694 - INFO -Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+2025-06-07 18:15:49,709 - INFO -Loading plugin 'docling_defaults'
+2025-06-07 18:15:49,709 - INFO -Registered ocr engines: ['easyocr', 'ocrmac', 'rapidocr', 'tesserocr', 'tesseract']
+2025-06-07 18:15:49,745 - INFO -Accelerator device: 'cpu'
+2025-06-07 18:15:51,933 - INFO -Accelerator device: 'cpu'
+2025-06-07 18:15:52,851 - INFO -Accelerator device: 'cpu'
+2025-06-07 18:15:53,343 - INFO -Loading plugin 'docling_defaults'
+2025-06-07 18:15:53,343 - INFO -Registered picture descriptions: ['vlm', 'api']
+2025-06-07 18:15:53,344 - INFO -Processing document module-0-5-8.pdf
+2025-06-07 18:16:18,211 - INFO -Finished converting document module-0-5-8.pdf in 28.53 sec.
+2025-06-07 18:16:18,211 - INFO -Loading and converting document SUCCESSFULLY: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 18:16:18,235 - INFO -Splitting document
+2025-06-07 18:16:18,235 - INFO -Splitting document SUCCESSFULLY
+2025-06-07 18:16:18,235 - INFO -Creating Vector Store: module-0-5-8
+2025-06-07 18:16:18,434 - INFO -Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-07 18:16:20,928 - INFO -Creating Vector Store SUCCESSFULLY
+2025-06-07 18:16:20,929 - INFO -################# Vector Store created successfully ###############
+2025-06-07 18:16:20,932 - INFO -PDF processed successfully
+2025-06-07 18:17:19,405 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:17:21,725 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:17:21,725 - INFO -Images already exist
+2025-06-07 18:17:21,765 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:17:21,820 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:17:21,866 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:17:21,960 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:17:25,485 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:17:25,571 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:17:27,946 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:17:27,946 - INFO -Images already exist
+2025-06-07 18:17:27,986 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:17:28,035 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:17:28,127 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:17:28,226 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:17:28,229 - INFO -Answering question in streamlit
+2025-06-07 18:17:28,229 - INFO -Creating RAG chain
+2025-06-07 18:17:28,690 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 18:17:30,695 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 18:20:31,166 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:20:35,366 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:20:37,517 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:20:37,519 - INFO -Images already exist
+2025-06-07 18:20:37,562 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:20:37,652 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:20:37,750 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:20:37,854 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:20:42,369 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:20:44,666 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:20:44,667 - INFO -Images already exist
+2025-06-07 18:20:44,708 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:20:44,756 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:20:44,848 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:20:44,951 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:20:44,972 - INFO -Answering question in streamlit
+2025-06-07 18:20:44,973 - INFO -Creating RAG chain
+2025-06-07 18:20:44,973 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 18:20:48,219 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 18:21:57,768 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:22:00,287 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:22:00,287 - INFO -Images already exist
+2025-06-07 18:22:00,327 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:22:00,377 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:22:00,462 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:22:00,563 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:22:03,832 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:22:05,867 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:22:05,867 - INFO -Images already exist
+2025-06-07 18:22:05,910 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:22:06,006 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:22:06,075 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:22:06,174 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:22:06,196 - INFO -Answering question in streamlit
+2025-06-07 18:22:06,245 - INFO -Creating RAG chain
+2025-06-07 18:22:06,246 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 18:22:10,270 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 18:23:10,443 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:23:13,051 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:23:13,051 - INFO -Images already exist
+2025-06-07 18:23:13,093 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:23:13,143 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:23:13,191 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:23:13,245 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:23:13,270 - INFO -Answering question in streamlit
+2025-06-07 18:23:13,300 - INFO -Creating RAG chain
+2025-06-07 18:23:13,300 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 18:23:16,209 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 18:24:51,602 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:24:53,852 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:24:53,852 - INFO -Images already exist
+2025-06-07 18:24:53,891 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:24:53,942 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:24:54,007 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:24:54,096 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:24:54,121 - INFO -Answering question in streamlit
+2025-06-07 18:24:54,159 - INFO -Creating RAG chain
+2025-06-07 18:24:54,160 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 18:24:55,861 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 18:25:10,064 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:25:10,908 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 18:25:13,479 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 18:25:13,479 - INFO -Images already exist
+2025-06-07 18:25:13,524 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:25:13,613 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:25:13,698 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:25:13,795 - INFO -Loading images from PDF already existed successfully
+2025-06-07 18:25:13,818 - INFO -Answering question in streamlit
+2025-06-07 18:25:13,860 - INFO -Creating RAG chain
+2025-06-07 18:25:13,861 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 18:25:15,272 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 19:02:38,040 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:02:38,102 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:02:40,323 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:02:40,323 - INFO -Images already exist
+2025-06-07 19:02:40,365 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:02:40,455 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:02:40,542 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:02:40,838 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:02:40,870 - INFO -Answering question in streamlit
+2025-06-07 19:02:40,915 - INFO -Creating RAG chain
+2025-06-07 19:02:40,916 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 19:02:42,652 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 19:02:56,959 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:02:58,454 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:03:00,248 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:03:00,248 - INFO -Images already exist
+2025-06-07 19:03:00,291 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:03:00,341 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:03:00,427 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:03:00,526 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:03:01,308 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:03:03,430 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:03:03,431 - INFO -Images already exist
+2025-06-07 19:03:03,476 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:03:03,533 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:03:03,588 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:03:03,644 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:03:03,668 - INFO -Processing PDF
+2025-06-07 19:03:03,669 - INFO -PDF saved successfully at tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 19:03:03,669 - INFO -################# Creating Vector Store Pipeline ######################
+2025-06-07 19:03:03,669 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 19:03:03,681 - INFO -Going to convert document batch...
+2025-06-07 19:03:03,681 - INFO -Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+2025-06-07 19:03:03,681 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:03:05,950 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:03:06,756 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:03:07,231 - INFO -Processing document module-0-5-8.pdf
+2025-06-07 19:03:31,554 - INFO -Finished converting document module-0-5-8.pdf in 27.88 sec.
+2025-06-07 19:03:31,554 - INFO -Loading and converting document SUCCESSFULLY: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 19:03:31,565 - INFO -Splitting document
+2025-06-07 19:03:31,565 - INFO -Splitting document SUCCESSFULLY
+2025-06-07 19:03:31,566 - INFO -Creating Vector Store: module-0-5-8
+2025-06-07 19:03:31,590 - INFO -Creating Vector Store SUCCESSFULLY
+2025-06-07 19:03:31,590 - INFO -################# Vector Store created successfully ###############
+2025-06-07 19:03:31,592 - INFO -PDF processed successfully
+2025-06-07 19:03:34,701 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:03:36,977 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:03:36,978 - INFO -Images already exist
+2025-06-07 19:03:37,017 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:03:37,065 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:03:37,148 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:03:37,203 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:03:37,225 - INFO -Answering question in streamlit
+2025-06-07 19:03:37,268 - INFO -Creating RAG chain
+2025-06-07 19:03:37,268 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 19:03:43,994 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 19:04:03,266 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:04:05,948 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:04:05,948 - INFO -Images already exist
+2025-06-07 19:04:05,991 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:04:06,077 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:04:06,171 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:04:06,268 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:04:07,861 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:04:09,730 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:04:09,731 - INFO -Images already exist
+2025-06-07 19:04:09,771 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:04:09,862 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:04:09,953 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:04:10,052 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:04:10,079 - INFO -Answering question in streamlit
+2025-06-07 19:04:10,113 - INFO -Creating RAG chain
+2025-06-07 19:04:10,113 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 19:04:17,555 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 19:04:32,235 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:04:32,320 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:04:34,178 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:04:34,178 - INFO -Images already exist
+2025-06-07 19:04:34,400 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:04:34,449 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:04:34,501 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:04:34,552 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:04:34,576 - INFO -Answering question in streamlit
+2025-06-07 19:04:34,606 - INFO -Creating RAG chain
+2025-06-07 19:04:34,607 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 19:04:37,111 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 19:17:55,822 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:18:17,503 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:18:22,962 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:18:25,524 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:18:25,524 - INFO -Images do not exist, converting PDF to images
+2025-06-07 19:18:26,550 - INFO -converting PDF to images Successfully
+2025-06-07 19:19:08,165 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:19:10,863 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:19:10,863 - INFO -Images already exist
+2025-06-07 19:19:10,908 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:19:11,013 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:19:11,110 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:19:11,216 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:19:14,725 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:19:17,113 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:19:17,113 - INFO -Images already exist
+2025-06-07 19:19:17,154 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:19:17,218 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:19:17,304 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:19:17,400 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:19:17,402 - INFO -Processing PDF
+2025-06-07 19:19:17,402 - INFO -PDF saved successfully at tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 19:19:17,402 - INFO -################# Creating Vector Store Pipeline ######################
+2025-06-07 19:19:17,402 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 19:19:17,429 - INFO -Going to convert document batch...
+2025-06-07 19:19:17,430 - INFO -Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+2025-06-07 19:19:17,444 - INFO -Loading plugin 'docling_defaults'
+2025-06-07 19:19:17,445 - INFO -Registered ocr engines: ['easyocr', 'ocrmac', 'rapidocr', 'tesserocr', 'tesseract']
+2025-06-07 19:19:17,482 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:19:19,545 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:19:20,140 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:19:20,523 - INFO -Loading plugin 'docling_defaults'
+2025-06-07 19:19:20,523 - INFO -Registered picture descriptions: ['vlm', 'api']
+2025-06-07 19:19:20,523 - INFO -Processing document module-0-5-8.pdf
+2025-06-07 19:19:45,891 - INFO -Finished converting document module-0-5-8.pdf in 28.49 sec.
+2025-06-07 19:19:45,891 - INFO -Loading and converting document SUCCESSFULLY: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 19:19:45,912 - INFO -Splitting document
+2025-06-07 19:19:45,912 - INFO -Splitting document SUCCESSFULLY
+2025-06-07 19:19:45,912 - INFO -Creating Vector Store: module-0-5-8
+2025-06-07 19:19:46,140 - INFO -Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-07 19:19:46,848 - INFO -Creating Vector Store SUCCESSFULLY
+2025-06-07 19:19:46,849 - INFO -################# Vector Store created successfully ###############
+2025-06-07 19:19:46,852 - INFO -PDF processed successfully
+2025-06-07 19:20:34,166 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:20:36,919 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:20:36,920 - INFO -Images already exist
+2025-06-07 19:20:36,962 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:20:37,014 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:20:37,060 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:20:37,157 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:20:37,180 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\db
+2025-06-07 19:20:37,182 - ERROR -Error while loading and converting document: [Errno 13] Permission denied: 'tmp\\vector_store\\module-0-5-8\\db'
+2025-06-07 19:21:56,708 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:21:58,966 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:21:58,967 - INFO -Images already exist
+2025-06-07 19:21:59,012 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:21:59,112 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:21:59,204 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:21:59,308 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:21:59,345 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\db
+2025-06-07 19:21:59,347 - ERROR -Error while loading and converting document: [Errno 13] Permission denied: 'tmp\\vector_store\\module-0-5-8\\db'
+2025-06-07 19:22:01,284 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:22:04,017 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:22:06,024 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:22:06,024 - INFO -Images already exist
+2025-06-07 19:22:06,065 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:22:06,113 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:22:06,202 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:22:06,297 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:22:06,316 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\db
+2025-06-07 19:22:06,319 - ERROR -Error while loading and converting document: [Errno 13] Permission denied: 'tmp\\vector_store\\module-0-5-8\\db'
+2025-06-07 19:22:10,931 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:27:21,142 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:27:25,536 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:27:27,439 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:27:27,440 - INFO -Images already exist
+2025-06-07 19:27:27,481 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:27:27,532 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:27:27,623 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:27:27,679 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:27:32,539 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:27:35,431 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:27:35,431 - INFO -Images already exist
+2025-06-07 19:27:35,475 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:27:35,580 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:27:35,671 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:27:35,768 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:27:35,791 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\db
+2025-06-07 19:27:35,794 - ERROR -Error while loading and converting document: [Errno 13] Permission denied: 'tmp\\vector_store\\module-0-5-8\\db'
+2025-06-07 19:28:28,767 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:28:31,587 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:28:31,587 - INFO -Images already exist
+2025-06-07 19:28:31,626 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:28:31,723 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:28:31,797 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:28:31,898 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:28:31,915 - INFO -Processing PDF
+2025-06-07 19:28:31,916 - INFO -PDF saved successfully at tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 19:28:31,916 - INFO -################# Creating Vector Store Pipeline ######################
+2025-06-07 19:28:31,916 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 19:28:31,930 - INFO -Going to convert document batch...
+2025-06-07 19:28:31,930 - INFO -Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+2025-06-07 19:28:31,930 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:28:34,081 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:28:34,766 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:28:35,235 - INFO -Processing document module-0-5-8.pdf
+2025-06-07 19:28:59,802 - INFO -Finished converting document module-0-5-8.pdf in 27.89 sec.
+2025-06-07 19:28:59,802 - INFO -Loading and converting document SUCCESSFULLY: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 19:28:59,811 - INFO -Splitting document
+2025-06-07 19:28:59,811 - INFO -Splitting document SUCCESSFULLY
+2025-06-07 19:28:59,812 - INFO -Creating Vector Store: module-0-5-8
+2025-06-07 19:28:59,831 - INFO -Creating Vector Store SUCCESSFULLY
+2025-06-07 19:28:59,831 - INFO -################# Vector Store created successfully ###############
+2025-06-07 19:28:59,831 - INFO -PDF processed successfully
+2025-06-07 19:29:13,664 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:29:16,078 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:29:16,079 - INFO -Images already exist
+2025-06-07 19:29:16,120 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:29:16,211 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:29:16,306 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:29:16,402 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:29:16,429 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\db
+2025-06-07 19:29:16,431 - ERROR -Error while loading and converting document: [Errno 13] Permission denied: 'tmp\\vector_store\\module-0-5-8\\db'
+2025-06-07 19:34:03,689 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:34:05,671 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:34:05,671 - INFO -Images already exist
+2025-06-07 19:34:05,714 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:34:05,810 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:34:05,884 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:34:05,985 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:34:06,009 - INFO -################# Summarizing ######################
+2025-06-07 19:34:06,009 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\db
+2025-06-07 19:34:06,011 - ERROR -Error while loading and converting document: [Errno 13] Permission denied: 'tmp\\vector_store\\module-0-5-8\\db'
+2025-06-07 19:34:06,011 - ERROR -Error in summarizing: Error occurred in : [C:\All files\AI-Agent-Document-QA\core\document_loader.py] at line number: [11] error message: [Error while loading and converting document]
+2025-06-07 19:37:49,154 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:37:51,611 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:37:51,611 - INFO -Images already exist
+2025-06-07 19:37:51,651 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:37:51,704 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:37:51,789 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:37:51,883 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:37:53,260 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:37:56,037 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:37:56,037 - INFO -Images already exist
+2025-06-07 19:37:56,078 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:37:56,131 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:37:56,225 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:37:56,277 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:37:56,301 - INFO -################# Summarizing ######################
+2025-06-07 19:37:56,301 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\db
+2025-06-07 19:37:56,303 - ERROR -Error while loading and converting document: [Errno 13] Permission denied: 'tmp\\vector_store\\module-0-5-8\\db'
+2025-06-07 19:37:56,303 - ERROR -Error in summarizing: Error occurred in : [C:\All files\AI-Agent-Document-QA\core\document_loader.py] at line number: [11] error message: [Error while loading and converting document]
+2025-06-07 19:42:41,582 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:42:43,887 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:42:43,887 - INFO -Images already exist
+2025-06-07 19:42:43,929 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:42:44,031 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:42:44,166 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:42:44,261 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:42:46,278 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:42:48,517 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:42:48,517 - INFO -Images already exist
+2025-06-07 19:42:48,559 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:42:48,609 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:42:48,699 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:42:48,799 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:42:48,819 - INFO -################# Summarizing ######################
+2025-06-07 19:42:48,819 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 19:42:48,823 - INFO -Going to convert document batch...
+2025-06-07 19:42:48,823 - INFO -Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+2025-06-07 19:42:48,823 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:42:51,069 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:42:51,764 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:42:52,176 - INFO -Processing document module-0-5-8.pdf
+2025-06-07 19:43:17,263 - INFO -Finished converting document module-0-5-8.pdf in 28.44 sec.
+2025-06-07 19:43:17,263 - INFO -Loading and converting document SUCCESSFULLY: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 19:43:17,792 - ERROR -Error in summarizing: 'str' object has no attribute 'page_content'
+2025-06-07 19:48:07,701 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:48:10,090 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:48:10,091 - INFO -Images already exist
+2025-06-07 19:48:10,132 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:48:10,183 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:48:10,274 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:48:10,371 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:48:11,239 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:48:12,957 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:48:12,957 - INFO -Images already exist
+2025-06-07 19:48:13,000 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:48:13,051 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:48:13,097 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:48:13,196 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:48:13,224 - INFO -################# Summarizing ######################
+2025-06-07 19:48:13,224 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 19:48:13,228 - INFO -Going to convert document batch...
+2025-06-07 19:48:13,228 - INFO -Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+2025-06-07 19:48:13,228 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:48:15,401 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:48:16,917 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:48:17,362 - INFO -Processing document module-0-5-8.pdf
+2025-06-07 19:48:43,190 - INFO -Finished converting document module-0-5-8.pdf in 29.97 sec.
+2025-06-07 19:48:43,191 - INFO -Loading and converting document SUCCESSFULLY: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 19:48:50,908 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 19:49:07,292 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 19:49:10,561 - INFO -################# Summarizing SUCCESFULLY ######################
+2025-06-07 19:49:53,777 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:49:55,968 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:49:55,968 - INFO -Images already exist
+2025-06-07 19:49:56,008 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:49:56,102 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:49:56,160 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:49:56,257 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:51:47,747 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:51:49,866 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:51:49,867 - INFO -Images already exist
+2025-06-07 19:51:49,907 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:51:49,997 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:51:50,089 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:51:50,186 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:51:50,213 - INFO -################# Summarizing ######################
+2025-06-07 19:51:50,213 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 19:51:50,215 - INFO -Going to convert document batch...
+2025-06-07 19:51:50,216 - INFO -Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+2025-06-07 19:51:50,216 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:51:52,417 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:51:53,244 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:51:53,683 - INFO -Processing document module-0-5-8.pdf
+2025-06-07 19:52:18,268 - INFO -Finished converting document module-0-5-8.pdf in 28.05 sec.
+2025-06-07 19:52:18,268 - INFO -Loading and converting document SUCCESSFULLY: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 19:52:23,802 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 19:52:27,693 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 19:52:29,291 - INFO -################# Summarizing SUCCESFULLY ######################
+2025-06-07 19:52:52,642 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:52:52,724 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:52:55,191 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:52:55,191 - INFO -Images already exist
+2025-06-07 19:52:55,234 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:52:55,294 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:52:55,383 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:52:55,443 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:52:55,471 - INFO -################# Summarizing ######################
+2025-06-07 19:52:55,471 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 19:52:55,475 - INFO -Going to convert document batch...
+2025-06-07 19:52:55,475 - INFO -Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+2025-06-07 19:52:55,475 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:52:57,326 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:52:58,270 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:52:58,737 - INFO -Processing document module-0-5-8.pdf
+2025-06-07 19:53:23,206 - INFO -Finished converting document module-0-5-8.pdf in 27.74 sec.
+2025-06-07 19:53:23,206 - INFO -Loading and converting document SUCCESSFULLY: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 19:53:28,934 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 19:53:34,972 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 19:53:41,149 - INFO -################# Summarizing SUCCESFULLY ######################
+2025-06-07 19:53:41,154 - INFO -Answering question in streamlit
+2025-06-07 19:53:41,206 - INFO -Creating RAG chain
+2025-06-07 19:53:41,206 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 19:53:42,998 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 19:54:29,656 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 19:54:31,943 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 19:54:31,943 - INFO -Images already exist
+2025-06-07 19:54:31,985 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:54:32,059 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:54:32,123 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:54:32,215 - INFO -Loading images from PDF already existed successfully
+2025-06-07 19:54:32,241 - INFO -################# Summarizing ######################
+2025-06-07 19:54:32,241 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 19:54:32,244 - INFO -Going to convert document batch...
+2025-06-07 19:54:32,244 - INFO -Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+2025-06-07 19:54:32,244 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:54:34,538 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:54:35,351 - INFO -Accelerator device: 'cpu'
+2025-06-07 19:54:35,790 - INFO -Processing document module-0-5-8.pdf
+2025-06-07 19:55:01,169 - INFO -Finished converting document module-0-5-8.pdf in 28.92 sec.
+2025-06-07 19:55:01,169 - INFO -Loading and converting document SUCCESSFULLY: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 19:55:03,576 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 19:55:08,171 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 19:55:14,020 - INFO -################# Summarizing SUCCESFULLY ######################
+2025-06-07 19:55:14,023 - INFO -Answering question in streamlit
+2025-06-07 19:55:14,073 - INFO -Creating RAG chain
+2025-06-07 19:55:14,073 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 19:55:16,734 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 20:10:05,773 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:10:11,726 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:10:14,115 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 20:10:14,115 - INFO -Images already exist
+2025-06-07 20:10:14,178 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:10:14,263 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:10:14,314 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:10:14,423 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:10:14,741 - INFO -Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-07 20:11:18,318 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:11:20,417 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 20:11:20,418 - INFO -Images already exist
+2025-06-07 20:11:20,478 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:11:20,533 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:11:20,617 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:11:20,714 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:11:20,740 - INFO -################# Summarizing ######################
+2025-06-07 20:11:20,740 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:11:21,507 - INFO -Going to convert document batch...
+2025-06-07 20:11:21,507 - INFO -Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+2025-06-07 20:11:21,521 - INFO -Loading plugin 'docling_defaults'
+2025-06-07 20:11:21,521 - INFO -Registered ocr engines: ['easyocr', 'ocrmac', 'rapidocr', 'tesserocr', 'tesseract']
+2025-06-07 20:11:21,635 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:11:22,974 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:11:24,103 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:11:24,445 - INFO -Loading plugin 'docling_defaults'
+2025-06-07 20:11:24,445 - INFO -Registered picture descriptions: ['vlm', 'api']
+2025-06-07 20:11:24,446 - INFO -Processing document module-0-5-8.pdf
+2025-06-07 20:11:38,779 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:11:50,753 - INFO -Finished converting document module-0-5-8.pdf in 30.01 sec.
+2025-06-07 20:11:50,753 - INFO -Loading and converting document SUCCESSFULLY: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:11:52,891 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:11:53,443 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 20:11:58,793 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:12:01,415 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 20:12:01,415 - INFO -Images already exist
+2025-06-07 20:12:01,455 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:12:01,506 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:12:01,556 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:12:01,652 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:12:01,675 - INFO -################# Summarizing ######################
+2025-06-07 20:12:01,676 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:12:01,680 - INFO -Going to convert document batch...
+2025-06-07 20:12:01,680 - INFO -Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+2025-06-07 20:12:01,680 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:12:03,848 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:12:04,611 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:12:05,039 - INFO -Processing document module-0-5-8.pdf
+2025-06-07 20:12:06,337 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:12:08,910 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 20:12:08,910 - INFO -Images already exist
+2025-06-07 20:12:08,974 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:12:09,081 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:12:09,184 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:12:09,306 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:12:09,336 - INFO -################# Summarizing ######################
+2025-06-07 20:12:09,336 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:12:09,342 - INFO -Going to convert document batch...
+2025-06-07 20:12:09,343 - INFO -Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+2025-06-07 20:12:09,343 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:12:12,008 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:12:13,126 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:12:13,600 - INFO -Processing document module-0-5-8.pdf
+2025-06-07 20:12:13,982 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 20:12:17,203 - INFO -################# Summarizing SUCCESFULLY ######################
+2025-06-07 20:12:27,257 - INFO -Finished converting document module-0-5-8.pdf in 25.58 sec.
+2025-06-07 20:12:27,257 - INFO -Loading and converting document SUCCESSFULLY: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:12:29,388 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 20:12:32,987 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 20:12:35,620 - INFO -################# Summarizing SUCCESFULLY ######################
+2025-06-07 20:12:39,982 - INFO -Finished converting document module-0-5-8.pdf in 30.64 sec.
+2025-06-07 20:12:39,982 - INFO -Loading and converting document SUCCESSFULLY: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:12:43,715 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 20:12:47,820 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 20:13:04,104 - INFO -################# Summarizing SUCCESFULLY ######################
+2025-06-07 20:14:23,687 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:14:26,175 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 20:14:26,175 - INFO -Images already exist
+2025-06-07 20:14:26,216 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:14:26,265 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:14:26,358 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:14:26,408 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:15:00,182 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:15:08,447 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:15:11,897 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 20:15:11,897 - INFO -Images do not exist, converting PDF to images
+2025-06-07 20:15:13,194 - INFO -converting PDF to images Successfully
+2025-06-07 20:15:17,653 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:15:19,833 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 20:15:19,834 - INFO -Images already exist
+2025-06-07 20:15:19,883 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:15:19,940 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:15:20,039 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:15:20,144 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:15:20,146 - INFO -Processing PDF
+2025-06-07 20:15:20,146 - INFO -PDF saved successfully at tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:15:20,146 - INFO -################# Creating Vector Store Pipeline ######################
+2025-06-07 20:15:20,146 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:15:20,179 - INFO -Going to convert document batch...
+2025-06-07 20:15:20,179 - INFO -Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+2025-06-07 20:15:20,192 - INFO -Loading plugin 'docling_defaults'
+2025-06-07 20:15:20,192 - INFO -Registered ocr engines: ['easyocr', 'ocrmac', 'rapidocr', 'tesserocr', 'tesseract']
+2025-06-07 20:15:20,227 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:15:22,448 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:15:23,188 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:15:23,547 - INFO -Loading plugin 'docling_defaults'
+2025-06-07 20:15:23,547 - INFO -Registered picture descriptions: ['vlm', 'api']
+2025-06-07 20:15:23,548 - INFO -Processing document module-0-5-8.pdf
+2025-06-07 20:15:49,429 - INFO -Finished converting document module-0-5-8.pdf in 29.28 sec.
+2025-06-07 20:15:49,429 - INFO -Loading and converting document SUCCESSFULLY: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:15:49,448 - INFO -Splitting document
+2025-06-07 20:15:49,449 - INFO -Splitting document SUCCESSFULLY
+2025-06-07 20:15:49,449 - INFO -Creating Vector Store: module-0-5-8
+2025-06-07 20:15:49,664 - INFO -Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-07 20:15:50,379 - INFO -Creating Vector Store SUCCESSFULLY
+2025-06-07 20:15:50,379 - INFO -################# Vector Store created successfully ###############
+2025-06-07 20:15:50,384 - INFO -################# Summarizing ######################
+2025-06-07 20:15:50,384 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:15:50,394 - INFO -Going to convert document batch...
+2025-06-07 20:15:50,394 - INFO -Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+2025-06-07 20:15:50,394 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:15:52,656 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:15:53,332 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:15:54,077 - INFO -Processing document module-0-5-8.pdf
+2025-06-07 20:16:19,077 - INFO -Finished converting document module-0-5-8.pdf in 28.69 sec.
+2025-06-07 20:16:19,078 - INFO -Loading and converting document SUCCESSFULLY: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:16:21,621 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 20:16:28,645 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 20:16:32,090 - INFO -################# Summarizing SUCCESFULLY ######################
+2025-06-07 20:16:32,091 - INFO -PDF processed successfully
+2025-06-07 20:18:23,718 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:18:30,017 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:18:33,481 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 20:18:33,482 - INFO -Images do not exist, converting PDF to images
+2025-06-07 20:18:34,340 - INFO -converting PDF to images Successfully
+2025-06-07 20:18:35,630 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:18:37,728 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 20:18:37,728 - INFO -Images already exist
+2025-06-07 20:18:37,775 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:18:37,879 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:18:37,978 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:18:38,033 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:18:38,035 - INFO -Processing PDF
+2025-06-07 20:18:38,037 - INFO -PDF saved successfully at tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:18:38,037 - INFO -################# Creating Vector Store Pipeline ######################
+2025-06-07 20:18:38,037 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:18:38,082 - INFO -Going to convert document batch...
+2025-06-07 20:18:38,082 - INFO -Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+2025-06-07 20:18:38,100 - INFO -Loading plugin 'docling_defaults'
+2025-06-07 20:18:38,100 - INFO -Registered ocr engines: ['easyocr', 'ocrmac', 'rapidocr', 'tesserocr', 'tesseract']
+2025-06-07 20:18:38,135 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:18:40,291 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:18:41,016 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:18:41,350 - INFO -Loading plugin 'docling_defaults'
+2025-06-07 20:18:41,350 - INFO -Registered picture descriptions: ['vlm', 'api']
+2025-06-07 20:18:41,350 - INFO -Processing document module-0-5-8.pdf
+2025-06-07 20:19:07,319 - INFO -Finished converting document module-0-5-8.pdf in 29.28 sec.
+2025-06-07 20:19:07,319 - INFO -Loading and converting document SUCCESSFULLY: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:19:07,341 - INFO -Splitting document
+2025-06-07 20:19:07,341 - INFO -Splitting document SUCCESSFULLY
+2025-06-07 20:19:07,341 - INFO -Creating Vector Store: module-0-5-8
+2025-06-07 20:19:07,555 - INFO -Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-07 20:19:08,338 - INFO -Creating Vector Store SUCCESSFULLY
+2025-06-07 20:19:08,338 - INFO -################# Vector Store created successfully ###############
+2025-06-07 20:19:08,341 - INFO -################# Summarizing ######################
+2025-06-07 20:19:08,341 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:19:08,351 - INFO -Going to convert document batch...
+2025-06-07 20:19:08,351 - INFO -Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+2025-06-07 20:19:08,351 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:19:10,642 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:19:11,234 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:19:11,506 - INFO -Processing document module-0-5-8.pdf
+2025-06-07 20:19:38,015 - INFO -Finished converting document module-0-5-8.pdf in 29.67 sec.
+2025-06-07 20:19:38,015 - INFO -Loading and converting document SUCCESSFULLY: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:19:40,596 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 20:19:46,910 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 20:19:53,645 - INFO -################# Summarizing SUCCESFULLY ######################
+2025-06-07 20:19:53,646 - INFO -PDF processed successfully
+2025-06-07 20:20:01,885 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:20:04,697 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 20:20:04,697 - INFO -Images already exist
+2025-06-07 20:20:04,757 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:20:04,857 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:20:04,952 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:20:05,052 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:20:17,798 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:20:17,863 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:20:20,031 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 20:20:20,031 - INFO -Images already exist
+2025-06-07 20:20:20,278 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:20:20,330 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:20:20,422 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:20:20,476 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:20:20,498 - INFO -Answering question in streamlit
+2025-06-07 20:20:20,540 - INFO -Creating RAG chain
+2025-06-07 20:20:20,540 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 20:20:22,144 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 20:21:37,653 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:21:42,520 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:21:45,051 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 20:21:45,052 - INFO -Images already exist
+2025-06-07 20:21:45,091 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:21:45,163 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:21:45,253 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:21:45,352 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:21:51,905 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:22:09,019 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:22:16,977 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:22:19,150 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 20:22:19,151 - INFO -Images already exist
+2025-06-07 20:22:19,200 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:22:19,299 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:22:19,393 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:22:19,492 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:22:19,691 - INFO -Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-07 20:22:19,777 - INFO -################# Summarizing ######################
+2025-06-07 20:22:19,778 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:22:19,810 - INFO -Going to convert document batch...
+2025-06-07 20:22:19,810 - INFO -Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+2025-06-07 20:22:19,827 - INFO -Loading plugin 'docling_defaults'
+2025-06-07 20:22:19,828 - INFO -Registered ocr engines: ['easyocr', 'ocrmac', 'rapidocr', 'tesserocr', 'tesseract']
+2025-06-07 20:22:19,878 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:22:21,670 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:22:21,931 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:22:22,818 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:22:23,177 - INFO -Loading plugin 'docling_defaults'
+2025-06-07 20:22:23,177 - INFO -Registered picture descriptions: ['vlm', 'api']
+2025-06-07 20:22:23,178 - INFO -Processing document module-0-5-8.pdf
+2025-06-07 20:22:23,991 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 20:22:23,991 - INFO -Images already exist
+2025-06-07 20:22:24,100 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:22:24,253 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:22:24,368 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:22:24,543 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:22:24,583 - INFO -################# Summarizing ######################
+2025-06-07 20:22:24,583 - INFO -Loading and converting document: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:22:24,586 - INFO -Going to convert document batch...
+2025-06-07 20:22:24,587 - INFO -Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+2025-06-07 20:22:24,587 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:22:27,346 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:22:28,449 - INFO -Accelerator device: 'cpu'
+2025-06-07 20:22:28,979 - INFO -Processing document module-0-5-8.pdf
+2025-06-07 20:22:45,973 - INFO -Finished converting document module-0-5-8.pdf in 26.20 sec.
+2025-06-07 20:22:45,973 - INFO -Loading and converting document SUCCESSFULLY: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:22:50,254 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 20:22:54,647 - INFO -Finished converting document module-0-5-8.pdf in 30.06 sec.
+2025-06-07 20:22:54,647 - INFO -Loading and converting document SUCCESSFULLY: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:22:59,674 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 20:23:02,340 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 20:23:07,039 - INFO -################# Summarizing SUCCESFULLY ######################
+2025-06-07 20:23:10,120 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 20:23:13,172 - INFO -################# Summarizing SUCCESFULLY ######################
+2025-06-07 20:23:18,828 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:23:20,505 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 20:23:20,505 - INFO -Images already exist
+2025-06-07 20:23:20,548 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:23:20,598 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:23:20,693 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:23:20,760 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:23:24,360 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:23:24,720 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:23:27,116 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 20:23:27,116 - INFO -Images already exist
+2025-06-07 20:23:27,169 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:23:27,329 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:23:27,439 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:23:27,556 - INFO -Loading images from PDF already existed successfully
+2025-06-07 20:23:27,585 - INFO -Answering question in streamlit
+2025-06-07 20:23:27,664 - INFO -Creating RAG chain
+2025-06-07 20:23:27,664 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 20:23:32,548 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 20:28:16,981 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:28:26,402 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:28:28,374 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 20:28:28,375 - INFO -Images do not exist, converting PDF to images
+2025-06-07 20:28:28,400 - ERROR -Error while converting PDF to images: Unable to get page count.
+Syntax Warning: May not be a PDF file (continuing anyway)
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+
+2025-06-07 20:28:28,400 - ERROR -Error while showing PDF in Streamlit: Error occurred in : [C:\All files\AI-Agent-Document-QA\app\ui_helpers.py] at line number: [24] error message: [Error while converting PDF to images:]
+2025-06-07 20:49:24,611 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:49:43,676 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:49:46,145 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 20:49:46,146 - INFO -Images already exist
+2025-06-07 20:49:46,508 - INFO -Loading existing images successfully
+2025-06-07 20:49:46,792 - INFO -Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-07 20:49:46,880 - INFO -################# Summarizing ######################
+2025-06-07 20:49:46,880 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:49:46,891 - INFO -PDF loaded successfully with page metadata.
+2025-06-07 20:49:48,585 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-07 20:49:48,585 - INFO -Retrying request to /chat/completions in 0.380175 seconds
+2025-06-07 20:49:49,914 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-07 20:49:49,915 - INFO -Retrying request to /chat/completions in 0.857940 seconds
+2025-06-07 20:49:51,692 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-07 20:49:51,692 - ERROR -Error in summarizing: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1749340800000'}, 'provider_name': None}}, 'user_id': 'user_2uaVbdS83fOxHiQyvMSUSIkbnbZ'}
+2025-06-07 20:50:22,729 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:50:56,484 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:50:59,009 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 20:50:59,009 - INFO -Images do not exist, converting PDF to images
+2025-06-07 20:50:59,935 - INFO -Converting PDF to images successfully
+2025-06-07 20:51:02,278 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:51:04,859 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 20:51:04,860 - INFO -Images already exist
+2025-06-07 20:51:05,319 - INFO -Loading existing images successfully
+2025-06-07 20:51:05,323 - INFO -Document saved at: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:51:05,323 - INFO -################# Creating Vector Store Pipeline ######################
+2025-06-07 20:51:05,323 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:51:05,340 - INFO -PDF loaded successfully with page metadata.
+2025-06-07 20:51:05,340 - INFO -Creating Vector Store: module-0-5-8
+2025-06-07 20:51:05,744 - INFO -Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-07 20:51:06,565 - INFO -Creating Vector Store SUCCESSFULLY
+2025-06-07 20:51:06,567 - INFO -################# Vector Store created successfully ###############
+2025-06-07 20:51:06,567 - INFO -################# Summarizing ######################
+2025-06-07 20:51:06,567 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:51:06,588 - INFO -PDF loaded successfully with page metadata.
+2025-06-07 20:51:08,307 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-07 20:51:08,307 - INFO -Retrying request to /chat/completions in 0.485696 seconds
+2025-06-07 20:51:09,791 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-07 20:51:09,791 - INFO -Retrying request to /chat/completions in 0.762019 seconds
+2025-06-07 20:51:11,443 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-07 20:51:11,445 - ERROR -Error in summarizing: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1749340800000'}, 'provider_name': None}}, 'user_id': 'user_2uaVbdS83fOxHiQyvMSUSIkbnbZ'}
+2025-06-07 20:51:11,445 - ERROR -Error while processing: Error occurred in : [C:\All files\Ai-copy\core\rag_pipeline.py] at line number: [38] error message: [Error in summarizing]
+2025-06-07 20:54:07,086 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 20:54:10,291 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 20:54:10,291 - INFO -Images already exist
+2025-06-07 20:54:10,636 - INFO -Loading existing images successfully
+2025-06-07 20:54:10,674 - INFO -################# Summarizing ######################
+2025-06-07 20:54:10,674 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 20:54:10,677 - INFO -PDF loaded successfully with page metadata.
+2025-06-07 20:54:11,717 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-07 20:54:11,717 - INFO -Retrying request to /chat/completions in 0.457806 seconds
+2025-06-07 20:54:12,992 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-07 20:54:12,993 - INFO -Retrying request to /chat/completions in 0.828904 seconds
+2025-06-07 20:54:14,661 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-07 20:54:14,662 - ERROR -Error in summarizing: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '50', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1749340800000'}, 'provider_name': None}}, 'user_id': 'user_2uaVbdS83fOxHiQyvMSUSIkbnbZ'}
+2025-06-07 21:03:42,129 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:03:49,782 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:03:51,689 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:03:51,690 - INFO -Images already exist
+2025-06-07 21:03:52,083 - INFO -Loading existing images successfully
+2025-06-07 21:03:52,457 - INFO -Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-07 21:03:54,961 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:03:57,484 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:03:57,486 - INFO -Images already exist
+2025-06-07 21:03:57,907 - INFO -Loading existing images successfully
+2025-06-07 21:03:57,945 - INFO -################# Creating Vector Store Pipeline ######################
+2025-06-07 21:03:57,945 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 21:03:57,964 - INFO -PDF loaded successfully with page metadata.
+2025-06-07 21:03:57,965 - INFO -Creating Vector Store: module-0-5-8
+2025-06-07 21:03:57,993 - INFO -Creating Vector Store SUCCESSFULLY
+2025-06-07 21:03:57,993 - INFO -################# Vector Store created successfully ###############
+2025-06-07 21:03:57,993 - INFO -################# Summarizing ######################
+2025-06-07 21:03:57,993 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 21:03:57,999 - INFO -PDF loaded successfully with page metadata.
+2025-06-07 21:03:57,999 - ERROR -Error in summarizing: name 'summarize_documents' is not defined
+2025-06-07 21:03:57,999 - ERROR -Error while processing document in Streamlit: Error occurred in : [C:\All files\Ai-copy\core\rag_pipeline.py] at line number: [41] error message: [Error in summarizing]
+2025-06-07 21:05:33,723 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:05:35,970 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:05:35,970 - INFO -Images already exist
+2025-06-07 21:05:36,289 - INFO -Loading existing images successfully
+2025-06-07 21:05:37,880 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:05:40,019 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:05:40,021 - INFO -Images already exist
+2025-06-07 21:05:40,409 - INFO -Loading existing images successfully
+2025-06-07 21:05:40,436 - INFO -################# Creating Vector Store Pipeline ######################
+2025-06-07 21:05:40,437 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 21:05:40,456 - INFO -PDF loaded successfully with page metadata.
+2025-06-07 21:05:40,456 - INFO -Creating Vector Store: module-0-5-8
+2025-06-07 21:05:40,477 - INFO -Creating Vector Store SUCCESSFULLY
+2025-06-07 21:05:40,477 - INFO -################# Vector Store created successfully ###############
+2025-06-07 21:05:40,477 - INFO -################# Summarizing ######################
+2025-06-07 21:05:40,477 - ERROR -Error in summarizing: cannot import name 'load_and_convert_to_markdown' from 'core.document_loader' (C:\All files\Ai-copy\core\document_loader.py)
+2025-06-07 21:05:40,477 - ERROR -Error while processing document in Streamlit: Error occurred in : [C:\All files\Ai-copy\core\rag_pipeline.py] at line number: [38] error message: [Error in summarizing]
+2025-06-07 21:06:49,363 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:06:51,359 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:06:51,359 - INFO -Images already exist
+2025-06-07 21:06:51,770 - INFO -Loading existing images successfully
+2025-06-07 21:06:53,835 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:06:55,707 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:06:55,708 - INFO -Images already exist
+2025-06-07 21:06:56,098 - INFO -Loading existing images successfully
+2025-06-07 21:06:56,126 - INFO -################# Creating Vector Store Pipeline ######################
+2025-06-07 21:06:56,127 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 21:06:56,142 - INFO -PDF loaded successfully with page metadata.
+2025-06-07 21:06:56,142 - INFO -Creating Vector Store: module-0-5-8
+2025-06-07 21:06:56,165 - INFO -Creating Vector Store SUCCESSFULLY
+2025-06-07 21:06:56,165 - INFO -################# Vector Store created successfully ###############
+2025-06-07 21:06:56,165 - INFO -################# Summarizing ######################
+2025-06-07 21:06:56,165 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 21:06:56,170 - INFO -PDF loaded successfully with page metadata.
+2025-06-07 21:11:49,495 - INFO -################# Summarizing SUCCESSFULLY ######################
+2025-06-07 21:12:01,314 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:12:03,787 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:12:03,787 - INFO -Images already exist
+2025-06-07 21:12:04,194 - INFO -Loading existing images successfully
+2025-06-07 21:12:12,291 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:12:12,578 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:12:15,281 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:12:15,281 - INFO -Images already exist
+2025-06-07 21:12:15,696 - INFO -Loading existing images successfully
+2025-06-07 21:12:15,978 - INFO -Creating RAG chain
+2025-06-07 21:12:16,270 - ERROR -Error using RAG Chain: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-06-07 21:12:16,270 - ERROR -Error while answering question: Error occurred in : [C:\All files\Ai-copy\core\chain_builder.py] at line number: [22] error message: [Error using RAG Chain]
+2025-06-07 21:13:13,458 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:13:15,844 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:13:15,845 - INFO -Images already exist
+2025-06-07 21:13:16,302 - INFO -Loading existing images successfully
+2025-06-07 21:13:18,627 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:13:21,853 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:13:21,853 - INFO -Images already exist
+2025-06-07 21:13:22,181 - INFO -Loading existing images successfully
+2025-06-07 21:13:22,486 - INFO -Creating RAG chain
+2025-06-07 21:13:22,486 - ERROR -Error using RAG Chain: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-06-07 21:13:22,486 - ERROR -Error while answering question: Error occurred in : [C:\All files\Ai-copy\core\chain_builder.py] at line number: [22] error message: [Error using RAG Chain]
+2025-06-07 21:15:39,395 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:15:42,292 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:15:42,293 - INFO -Images already exist
+2025-06-07 21:15:42,754 - INFO -Loading existing images successfully
+2025-06-07 21:15:44,024 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:15:46,803 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:15:46,805 - INFO -Images already exist
+2025-06-07 21:15:47,143 - INFO -Loading existing images successfully
+2025-06-07 21:15:47,437 - INFO -Creating RAG chain
+2025-06-07 21:15:47,962 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 21:15:55,679 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 21:19:24,315 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:19:27,959 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:19:30,403 - ERROR -Error while processing document in Streamlit: [Errno 2] No such file or directory: 'tmp\\vector_store\\Course prerequisites\\Course prerequisites.docx'
+2025-06-07 21:19:55,728 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:19:58,119 - ERROR -Error while processing document in Streamlit: [Errno 2] No such file or directory: 'tmp\\vector_store\\Course prerequisites\\Course prerequisites.docx'
+2025-06-07 21:20:07,377 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:20:09,700 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:20:12,806 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:20:15,314 - ERROR -Error while processing document in Streamlit: [Errno 2] No such file or directory: 'tmp\\vector_store\\Course_prerequisites\\Course_prerequisites.docx'
+2025-06-07 21:20:28,595 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:20:33,357 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:20:35,401 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:20:35,402 - INFO -Images already exist
+2025-06-07 21:20:35,825 - INFO -Loading existing images successfully
+2025-06-07 21:21:42,339 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:21:44,691 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:21:44,692 - INFO -Images already exist
+2025-06-07 21:21:45,141 - INFO -Loading existing images successfully
+2025-06-07 21:21:58,427 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:21:58,678 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:22:01,441 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:22:01,441 - INFO -Images already exist
+2025-06-07 21:22:01,927 - INFO -Loading existing images successfully
+2025-06-07 21:22:02,220 - INFO -Creating RAG chain
+2025-06-07 21:22:02,221 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 21:22:04,634 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 21:25:38,061 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:25:40,649 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:25:40,649 - INFO -Images already exist
+2025-06-07 21:25:41,081 - INFO -Loading existing images successfully
+2025-06-07 21:25:41,496 - INFO -Creating RAG chain
+2025-06-07 21:25:41,498 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 21:25:43,877 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 21:36:28,151 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:36:31,297 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:36:31,298 - INFO -Images already exist
+2025-06-07 21:36:31,728 - INFO -Loading existing images successfully
+2025-06-07 21:39:30,734 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:39:33,687 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:39:33,688 - INFO -Images already exist
+2025-06-07 21:39:34,267 - INFO -Loading existing images successfully
+2025-06-07 21:40:42,950 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:40:45,455 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:40:45,456 - INFO -Images already exist
+2025-06-07 21:40:45,815 - INFO -Loading existing images successfully
+2025-06-07 21:41:32,632 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:41:34,953 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:41:34,954 - INFO -Images already exist
+2025-06-07 21:41:35,313 - INFO -Loading existing images successfully
+2025-06-07 21:43:30,351 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:43:33,564 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:43:33,566 - INFO -Images already exist
+2025-06-07 21:43:33,989 - INFO -Loading existing images successfully
+2025-06-07 21:43:34,175 - INFO -Creating RAG chain
+2025-06-07 21:43:34,175 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 21:43:36,338 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 21:44:21,331 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:44:23,658 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:44:23,659 - INFO -Images already exist
+2025-06-07 21:44:24,115 - INFO -Loading existing images successfully
+2025-06-07 21:44:25,177 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:44:27,667 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:44:27,667 - INFO -Images already exist
+2025-06-07 21:44:28,118 - INFO -Loading existing images successfully
+2025-06-07 21:44:28,273 - INFO -Creating RAG chain
+2025-06-07 21:44:28,274 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 21:44:31,940 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 21:44:48,637 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:44:50,932 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:44:50,933 - INFO -Images already exist
+2025-06-07 21:44:51,262 - INFO -Loading existing images successfully
+2025-06-07 21:44:52,401 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:44:54,816 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:44:54,818 - INFO -Images already exist
+2025-06-07 21:44:55,171 - INFO -Loading existing images successfully
+2025-06-07 21:44:55,469 - INFO -Creating RAG chain
+2025-06-07 21:44:55,469 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 21:45:03,274 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 21:48:38,880 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:48:50,739 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:48:53,558 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:48:53,559 - INFO -Images already exist
+2025-06-07 21:48:53,981 - INFO -Loading existing images successfully
+2025-06-07 21:48:54,372 - INFO -Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-07 21:49:12,068 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:51:18,600 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:51:33,394 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:51:36,133 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:51:36,135 - INFO -Images do not exist, converting PDF to images
+2025-06-07 21:51:37,684 - INFO -Converting PDF to images successfully
+2025-06-07 21:51:44,986 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:51:47,728 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:51:47,731 - INFO -Images already exist
+2025-06-07 21:51:48,216 - INFO -Loading existing images successfully
+2025-06-07 21:51:48,225 - INFO -################# Creating Vector Store Pipeline ######################
+2025-06-07 21:51:48,225 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 21:51:48,260 - INFO -PDF loaded successfully with page metadata.
+2025-06-07 21:51:48,260 - INFO -Creating Vector Store: module-0-5-8
+2025-06-07 21:51:48,887 - INFO -Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-07 21:51:49,680 - INFO -Creating Vector Store SUCCESSFULLY
+2025-06-07 21:51:49,681 - INFO -################# Vector Store created successfully ###############
+2025-06-07 21:51:49,682 - INFO -################# Summarizing ######################
+2025-06-07 21:51:49,682 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\module-0-5-8\module-0-5-8.pdf
+2025-06-07 21:51:49,691 - INFO -PDF loaded successfully with page metadata.
+2025-06-07 21:52:02,112 - INFO -################# Summarizing SUCCESSFULLY ######################
+2025-06-07 21:52:49,594 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:52:52,520 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:52:52,522 - INFO -Images already exist
+2025-06-07 21:52:53,025 - INFO -Loading existing images successfully
+2025-06-07 21:53:07,575 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:53:10,149 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:53:10,150 - INFO -Images already exist
+2025-06-07 21:53:10,624 - INFO -Loading existing images successfully
+2025-06-07 21:53:17,906 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:53:20,375 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:53:20,376 - INFO -Images already exist
+2025-06-07 21:53:20,842 - INFO -Loading existing images successfully
+2025-06-07 21:53:21,031 - INFO -Creating RAG chain
+2025-06-07 21:53:22,440 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 21:53:29,038 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 21:54:48,705 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:55:03,546 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:55:06,656 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:55:06,656 - INFO -Images already exist
+2025-06-07 21:55:07,153 - INFO -Loading existing images successfully
+2025-06-07 21:55:34,604 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:55:37,070 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:55:37,071 - INFO -Images already exist
+2025-06-07 21:55:37,532 - INFO -Loading existing images successfully
+2025-06-07 21:55:37,696 - INFO -Creating RAG chain
+2025-06-07 21:55:37,698 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 21:55:39,971 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-07 21:55:47,984 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:55:48,069 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-06-07 21:55:51,141 - INFO -Get images from PDF to show in Streamlit
+2025-06-07 21:55:51,142 - INFO -Images already exist
+2025-06-07 21:55:51,627 - INFO -Loading existing images successfully
+2025-06-07 21:55:51,802 - INFO -Creating RAG chain
+2025-06-07 21:55:51,803 - INFO -RAG chain created SUCCESFULLY
+2025-06-07 21:55:53,528 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"

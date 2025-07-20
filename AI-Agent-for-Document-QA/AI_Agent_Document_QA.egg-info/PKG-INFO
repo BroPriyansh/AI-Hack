@@ -1,0 +1,26 @@
+Metadata-Version: 2.4
+Name: AI-Agent-Document-QA
+Version: 0.0.1
+Summary: Smart AI Agent for Document Q&A with Summarization and Source Highlighting
+Author: Wesley Gonzales
+Requires-Python: >=3.10
+Requires-Dist: langchain
+Requires-Dist: langchain-experimental
+Requires-Dist: langchain-huggingface
+Requires-Dist: langchain-community
+Requires-Dist: langchain-openai
+Requires-Dist: chromadb
+Requires-Dist: python-dotenv
+Requires-Dist: streamlit
+Requires-Dist: transformers
+Requires-Dist: accelerate
+Requires-Dist: huggingface-hub
+Requires-Dist: pymupdf
+Requires-Dist: pdf2image
+Requires-Dist: Pillow
+Requires-Dist: python-docx
+Requires-Dist: tqdm
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

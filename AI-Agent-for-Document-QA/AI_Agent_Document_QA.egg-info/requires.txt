@@ -1,0 +1,16 @@
+langchain
+langchain-experimental
+langchain-huggingface
+langchain-community
+langchain-openai
+chromadb
+python-dotenv
+streamlit
+transformers
+accelerate
+huggingface-hub
+pymupdf
+pdf2image
+Pillow
+python-docx
+tqdm
