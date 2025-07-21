@@ -1,24 +1,10 @@
-# 🤖 Smart AI Agent for Document Q&A with Real-Time Summarization and Source Highlighting
+# 🤖 DocsQA : A Smart AI Agent for Document Q&A with Real-Time Summarization and Source Highlighting
 
 ---
 
 ## Overview
 
 An end-to-end intelligent document assistant that allows users to upload **PDF** business documents, receive a **real-time summary**, ask **natural language questions**, and view the **source snippets** from which answers are retrieved — with optional highlighting.
----
-
-# 📽️ Demo
-
-📽️ [Demo - YouTube](https://youtu.be/bE4pniYSH5I)
-
-🧪 Try it live on Hugging Face:  
-
-**[👉 Smart AI Agent for Document Q&A (Streamlit App)](https://huggingface.co/spaces/WesleyGonzales/AI-Agent-for-Document-QA)**
-
-![huggingfaces](https://github.com/user-attachments/assets/0eaa6eec-176c-4203-9453-3b86237e8e88)
-
-![huggingfaces_2](https://github.com/user-attachments/assets/356fa60b-0a03-4dd7-b944-c42f02b55cb7)
-
 ---
 
 ## 🚀 Features
@@ -106,23 +92,6 @@ OPENROUTER_API_KEY=your-key-here
 streamlit run main.py
 ```
 
-###  HuggingFace Spaces
-
-1. No installation required. Just open the link and upload a PDF.
-```bash
-https://huggingface.co/spaces/WesleyGonzales/AI-Agent-for-Document-QA
-PD: It's the same if you run it locally
-```
-
----
-
-## 🔒 API & Credentials
-This app uses OpenRouter to access LLMs. Create a free account and get your API key.
-
-In production, store the API key securely via Hugging Face Secrets or .env.
-
----
-
 ## 📄 Sample Outputs
 
 - ✅ Answers about your PDF document.
@@ -131,29 +100,8 @@ In production, store the API key securely via Hugging Face Secrets or .env.
 ---
 
 ## 💼 Why This Project Matters
-
 This project demonstrates:
-
 - Solid architecture with LangChain, vector stores, and custom RAG
-
 - Practical LLM integration with real-world file formats (PDFs)
-
 - Full deployment with Docker & Hugging Face Spaces
-
 - Thoughtful error handling, logging, and modular code structure
-
-
----
-
-## 👨‍💻 Author
-
-**Wesley Gonzales**  
-AI & ML Engineer  
-📫 wes.gb31@gmail.com  
-🔗 [https://www.linkedin.com/in/wesleygb/](https://www.linkedin.com/in/wesleygb/)  
-🤖 [My Github](https://github.com/WesleyG31)
----
-
-## 🪪 License
-
-This project is licensed under the MIT License.
