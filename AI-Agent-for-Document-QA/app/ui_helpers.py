@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 from PIL import Image
-from pdf2image import convert_from_path
+import fitz  # PyMuPDF
 import streamlit as st
 from src.custom_exception import CustomException
 from src.logger import get_logger
@@ -23,10 +23,12 @@ def show_pdf_streamlit(pdf_path, file_name, folder_override=None):
         if not image_paths:
             logger.info("Images do not exist, converting PDF to images")
             try:
-                images = convert_from_path(pdf_path)
-                for i, image in enumerate(images):
+                doc = fitz.open(pdf_path)
+                for i, page in enumerate(doc):
+                    pix = page.get_pixmap()
                     img_path = images_folder / f"page_{i + 1}.png"
-                    image.save(img_path, "PNG")
+                    pix.save(str(img_path))
+                    image = Image.open(img_path)
                     st.sidebar.image(image, caption=f"Page {i + 1}", use_container_width=True)
                 logger.info("Converting PDF to images successfully")
             except Exception as e:
