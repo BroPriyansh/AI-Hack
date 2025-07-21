@@ -8,12 +8,8 @@ RUN apt-get update && apt-get install -y \
     git \
     && rm -rf /var/lib/apt/lists/*
 
-# Upgrade pip and prepare user
+# Upgrade pip
 RUN pip install --upgrade pip
-RUN useradd -m -u 1000 user
-USER user
-ENV PATH="/home/user/.local/bin:$PATH"
-ENV PYTHONUNBUFFERED=1
 
 # Set working directory
 WORKDIR /app
@@ -23,6 +19,14 @@ COPY . /app
 
 # Install Python dependencies from setup.py and requirements.txt
 RUN pip install --no-cache-dir -e .
+
+# Create non-root user and set permissions
+RUN useradd -m -u 1000 user && chown -R user:user /app
+
+# Switch to non-root user
+USER user
+ENV PATH="/home/user/.local/bin:$PATH"
+ENV PYTHONUNBUFFERED=1
 
 # Set environment variables for Streamlit
 ENV STREAMLIT_SERVER_PORT=8080
