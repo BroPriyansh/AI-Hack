@@ -272,7 +272,8 @@ with st.container():
                     answer = ""
                     for chunk in chain.stream(question):
                         answer += chunk
-                        response_placeholder.markdown(f"<div class='answer-box'>{answer.replace('$', '\\$')}</div>", unsafe_allow_html=True)
+                        escaped_answer = answer.replace('$', '\\$')
+                        response_placeholder.markdown(f"<div class='answer-box'>{escaped_answer}</div>", unsafe_allow_html=True)
 
             except Exception as e:
                 logger.error(f"Error while answering question: {e}")
