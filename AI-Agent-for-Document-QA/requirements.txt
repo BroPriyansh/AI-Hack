@@ -15,6 +15,8 @@ huggingface-hub
 pymupdf
 pdf2image
 Pillow
+pdfplumber
+PyPDF2
 
 python-docx
 

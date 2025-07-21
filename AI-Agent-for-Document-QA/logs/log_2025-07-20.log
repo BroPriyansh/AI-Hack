@@ -52,3 +52,46 @@
 2025-07-20 16:08:59,989 - INFO -Images already exist
 2025-07-20 16:09:04,587 - INFO -Loading existing images successfully
 2025-07-20 16:09:05,392 - INFO -Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-20 21:10:34,774 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 21:13:09,450 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 21:15:20,328 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 21:17:31,430 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 21:17:52,298 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 21:17:57,581 - INFO -Get images from PDF to show in Streamlit
+2025-07-20 21:17:57,582 - INFO -Images already exist
+2025-07-20 21:18:05,739 - INFO -Loading existing images successfully
+2025-07-20 21:18:06,835 - INFO -Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-20 21:19:54,140 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 21:30:21,605 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 21:31:59,771 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 21:34:09,090 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 21:36:43,733 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 21:41:14,101 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 21:44:16,671 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 21:44:21,519 - INFO -Get images from PDF to show in Streamlit
+2025-07-20 21:44:21,521 - INFO -Images already exist
+2025-07-20 21:44:32,236 - INFO -Loading existing images successfully
+2025-07-20 21:44:40,216 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 21:44:44,658 - INFO -Get images from PDF to show in Streamlit
+2025-07-20 21:44:44,660 - INFO -Images already exist
+2025-07-20 21:44:54,540 - INFO -Loading existing images successfully
+2025-07-20 21:44:54,610 - INFO -################# Creating Vector Store Pipeline ######################
+2025-07-20 21:44:54,610 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\BAJHLIP23020V012223\BAJHLIP23020V012223.pdf
+2025-07-20 21:44:55,028 - INFO -PDF loaded successfully with page metadata.
+2025-07-20 21:44:55,028 - INFO -Creating Vector Store: BAJHLIP23020V012223
+2025-07-20 21:44:55,103 - INFO -Creating Vector Store SUCCESSFULLY
+2025-07-20 21:44:55,103 - INFO -################# Vector Store created successfully ###############
+2025-07-20 21:44:55,103 - INFO -################# Summarizing ######################
+2025-07-20 21:44:55,103 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\BAJHLIP23020V012223\BAJHLIP23020V012223.pdf
+2025-07-20 21:44:55,424 - INFO -PDF loaded successfully with page metadata.
+2025-07-20 21:45:04,836 - INFO -################# Summarizing SUCCESSFULLY ######################
+2025-07-20 21:46:01,897 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 21:46:02,106 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-20 21:46:07,458 - INFO -Get images from PDF to show in Streamlit
+2025-07-20 21:46:07,460 - INFO -Images already exist
+2025-07-20 21:46:17,277 - INFO -Loading existing images successfully
+2025-07-20 21:46:17,657 - INFO -Creating RAG chain
+2025-07-20 21:46:19,456 - INFO -RAG chain created SUCCESFULLY
+2025-07-20 21:46:24,294 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-20 21:46:24,296 - INFO -Retrying request to /chat/completions in 0.498688 seconds
+2025-07-20 21:46:29,080 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"

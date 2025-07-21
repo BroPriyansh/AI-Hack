@@ -1,0 +1,28 @@
+2025-07-21 21:52:08,700 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-21 21:53:06,375 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-21 21:53:11,237 - INFO -Get images from PDF to show in Streamlit
+2025-07-21 21:53:11,239 - INFO -Images already exist
+2025-07-21 21:53:15,833 - INFO -Loading existing images successfully
+2025-07-21 21:53:16,500 - INFO -Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-21 21:53:20,812 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-21 21:53:26,148 - INFO -Get images from PDF to show in Streamlit
+2025-07-21 21:53:26,150 - INFO -Images already exist
+2025-07-21 21:53:30,542 - INFO -Loading existing images successfully
+2025-07-21 21:53:30,608 - INFO -################# Creating Vector Store Pipeline ######################
+2025-07-21 21:53:30,608 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\BAJHLIP23020V012223\BAJHLIP23020V012223.pdf
+2025-07-21 21:53:30,789 - INFO -PDF loaded successfully with page metadata.
+2025-07-21 21:53:30,789 - INFO -Creating Vector Store: BAJHLIP23020V012223
+2025-07-21 21:53:30,840 - INFO -Creating Vector Store SUCCESSFULLY
+2025-07-21 21:53:30,840 - INFO -################# Vector Store created successfully ###############
+2025-07-21 21:53:30,840 - INFO -################# Summarizing ######################
+2025-07-21 21:53:30,840 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\BAJHLIP23020V012223\BAJHLIP23020V012223.pdf
+2025-07-21 21:53:30,983 - INFO -PDF loaded successfully with page metadata.
+2025-07-21 21:53:36,765 - INFO -################# Summarizing SUCCESSFULLY ######################
+2025-07-21 21:54:02,620 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-21 21:54:02,837 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-21 21:54:07,858 - INFO -Get images from PDF to show in Streamlit
+2025-07-21 21:54:07,859 - INFO -Images already exist
+2025-07-21 21:54:12,615 - INFO -Loading existing images successfully
+2025-07-21 21:54:12,955 - INFO -Creating RAG chain
+2025-07-21 21:54:13,860 - INFO -RAG chain created SUCCESFULLY
+2025-07-21 21:54:23,437 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
