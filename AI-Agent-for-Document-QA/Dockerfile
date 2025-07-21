@@ -13,6 +13,7 @@ RUN pip install --upgrade pip
 RUN useradd -m -u 1000 user
 USER user
 ENV PATH="/home/user/.local/bin:$PATH"
+ENV PYTHONUNBUFFERED=1
 
 # Set working directory
 WORKDIR /app
