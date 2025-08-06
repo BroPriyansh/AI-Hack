@@ -19,6 +19,8 @@ class RAGPipeline:
         try:
             logger.info("################# Creating Vector Store Pipeline ######################")
             chunks = load_and_split_document(self.file_path)
+            if not chunks:
+                raise CustomException("The document appears to be empty or could not be parsed. Please upload a valid PDF or DOCX with text.", None)
             vector_store = create_or_load_vectorstore(
                 chunks,
                 self.filename,
