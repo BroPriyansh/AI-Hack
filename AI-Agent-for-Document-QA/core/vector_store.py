@@ -19,5 +19,10 @@ def create_or_load_vectorstore(chunks, filename, vector_db_path, embedding_model
         return chroma_db
     except Exception as e:
         logger.error(f"Error while creating vector store: {e}")
+        try:
+            import streamlit as st
+            st.error(f"❗ Error while creating vector store: {e}")
+        except Exception:
+            pass
         import sys
         raise CustomException("Error while creating vector store", sys)
