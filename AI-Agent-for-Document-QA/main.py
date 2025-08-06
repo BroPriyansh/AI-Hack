@@ -197,7 +197,7 @@ if uploaded_file:
                     filename=base_name,
                     embedding_model=embedding_model,
                     vector_db_path=vector_db_path,
-                    api_key=None
+                    api_key=os.getenv("OPENROUTER_API_KEY")
                 )
                 vector_store = pipeline.build_vector_store()
                 summary = pipeline.summarize()
