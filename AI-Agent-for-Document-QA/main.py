@@ -222,6 +222,7 @@ if uploaded_file:
             except Exception as e:
                 logger.error(f"Error while processing document in Streamlit: {e}")
                 import sys
+                st.error(f"❗ Error while processing document: {e}")
                 raise CustomException("Error while processing document in Streamlit", sys)
 
 # Assistant and LLM selection in a card
