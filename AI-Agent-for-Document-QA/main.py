@@ -131,7 +131,7 @@ st.markdown("""
 
 import os
 os.environ["CUDA_VISIBLE_DEVICES"] = ""
-embedding_model = HuggingFaceEmbeddings(model_name="BAAI/bge-small-en")
+embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
 # Sidebar enhancements
 st.sidebar.markdown("""
