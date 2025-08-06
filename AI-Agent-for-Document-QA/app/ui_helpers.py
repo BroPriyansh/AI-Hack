@@ -32,8 +32,8 @@ def show_pdf_streamlit(pdf_path, file_name, folder_override=None):
                     st.sidebar.image(image, caption=f"Page {i + 1}", use_container_width=True)
                 logger.info("Converting PDF to images successfully")
             except Exception as e:
-                logger.error(f"Error while converting PDF to images: {e}")
-                raise CustomException("Error while converting PDF to images", e)
+                import sys
+                raise CustomException("Error while converting PDF to images", sys)
         else:
             logger.info("Images already exist")
             try:
@@ -42,9 +42,9 @@ def show_pdf_streamlit(pdf_path, file_name, folder_override=None):
                     st.sidebar.image(image, caption=f"Page {image_paths.index(img_path) + 1}", use_container_width=True)
                 logger.info("Loading existing images successfully")
             except Exception as e:
-                logger.error(f"Error while opening existing images: {e}")
-                raise CustomException("Error while opening existing images", e)
+                import sys
+                raise CustomException("Error while opening existing images", sys)
 
     except Exception as e:
-        logger.error(f"Error while showing PDF in Streamlit: {e}")
-        raise CustomException("Error while showing PDF in Streamlit", e)
+        import sys
+        raise CustomException("Error while showing PDF in Streamlit", sys)

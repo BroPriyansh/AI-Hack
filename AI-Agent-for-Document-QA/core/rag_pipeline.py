@@ -29,7 +29,8 @@ class RAGPipeline:
             return vector_store
         except Exception as e:
             logger.error(f"Error in Vector Store Pipeline: {e}")
-            raise CustomException("Error in Vector Store Pipeline", e)
+            import sys
+            raise CustomException("Error in Vector Store Pipeline", sys)
 
     def summarize(self):
         try:
@@ -41,7 +42,8 @@ class RAGPipeline:
             return summary
         except Exception as e:
             logger.error(f"Error in summarizing: {e}")
-            raise CustomException("Error in summarizing", e)
+            import sys
+            raise CustomException("Error in summarizing", sys)
 
 
     def get_chain(self, retriever, assistant, model):

@@ -18,5 +18,6 @@ def create_or_load_vectorstore(chunks, filename, vector_db_path, embedding_model
         logger.info(f"Creating Vector Store SUCCESSFULLY")
         return chroma_db
     except Exception as e:
-            logger.error(f"Error while creating vector store: {e}")
-            raise CustomException("Error while creating vector store",e)
+        logger.error(f"Error while creating vector store: {e}")
+        import sys
+        raise CustomException("Error while creating vector store", sys)

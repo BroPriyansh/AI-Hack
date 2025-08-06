@@ -27,8 +27,8 @@ def highlight_pdf_answer(original_pdf_path, matched_chunks, output_path):
                 for rect in highlights:
                     page.add_highlight_annot(rect)
             except Exception as e:
-                logger.warning(f"Could not highlight on page {page_num}: {e}")
-                continue
+                import sys
+                raise CustomException("Error while highlighting PDF", sys)
 
         doc.save(output_path)
         doc.close()

@@ -1,0 +1,39 @@
+2025-07-31 10:37:52,319 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-31 10:38:33,337 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-31 10:38:39,232 - INFO -Get images from PDF to show in Streamlit
+2025-07-31 10:38:39,240 - INFO -Images do not exist, converting PDF to images
+2025-07-31 10:38:39,685 - INFO -Converting PDF to images successfully
+2025-07-31 10:38:52,637 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-31 10:38:59,687 - INFO -Get images from PDF to show in Streamlit
+2025-07-31 10:38:59,689 - INFO -Images already exist
+2025-07-31 10:38:59,745 - INFO -Loading existing images successfully
+2025-07-31 10:38:59,750 - INFO -################# Creating Vector Store Pipeline ######################
+2025-07-31 10:38:59,751 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\Weekly WebDev Team Report (3)\Weekly WebDev Team Report (3).pdf
+2025-07-31 10:38:59,826 - INFO -PDF loaded successfully with page metadata.
+2025-07-31 10:38:59,826 - INFO -Creating Vector Store: Weekly WebDev Team Report (3)
+2025-07-31 10:39:01,543 - INFO -Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-31 10:39:04,404 - INFO -Creating Vector Store SUCCESSFULLY
+2025-07-31 10:39:04,404 - INFO -################# Vector Store created successfully ###############
+2025-07-31 10:39:04,405 - INFO -################# Summarizing ######################
+2025-07-31 10:39:04,405 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\Weekly WebDev Team Report (3)\Weekly WebDev Team Report (3).pdf
+2025-07-31 10:39:04,438 - INFO -PDF loaded successfully with page metadata.
+2025-07-31 10:39:24,252 - INFO -################# Summarizing SUCCESSFULLY ######################
+2025-07-31 10:39:36,569 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-31 10:39:36,789 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-31 10:39:43,804 - INFO -Get images from PDF to show in Streamlit
+2025-07-31 10:39:43,806 - INFO -Images already exist
+2025-07-31 10:39:43,861 - INFO -Loading existing images successfully
+2025-07-31 10:39:53,022 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-31 10:40:00,620 - INFO -Get images from PDF to show in Streamlit
+2025-07-31 10:40:00,622 - INFO -Images already exist
+2025-07-31 10:40:00,675 - INFO -Loading existing images successfully
+2025-07-31 10:40:02,103 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-31 10:40:02,310 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-31 10:40:10,816 - INFO -Get images from PDF to show in Streamlit
+2025-07-31 10:40:10,818 - INFO -Images already exist
+2025-07-31 10:40:10,874 - INFO -Loading existing images successfully
+2025-07-31 10:40:11,165 - INFO -Creating RAG chain
+2025-07-31 10:40:13,821 - INFO -RAG chain created SUCCESFULLY
+2025-07-31 10:40:17,409 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-31 10:40:17,415 - INFO -Retrying request to /chat/completions in 0.473632 seconds
+2025-07-31 10:40:24,982 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"

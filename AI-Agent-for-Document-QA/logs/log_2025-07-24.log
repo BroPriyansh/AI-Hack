@@ -1,0 +1,28 @@
+2025-07-24 23:18:04,588 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-24 23:18:20,743 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-24 23:18:24,835 - INFO -Get images from PDF to show in Streamlit
+2025-07-24 23:18:24,837 - INFO -Images do not exist, converting PDF to images
+2025-07-24 23:18:25,219 - INFO -Converting PDF to images successfully
+2025-07-24 23:18:28,295 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-24 23:18:33,491 - INFO -Get images from PDF to show in Streamlit
+2025-07-24 23:18:33,491 - INFO -Images already exist
+2025-07-24 23:18:33,534 - INFO -Loading existing images successfully
+2025-07-24 23:18:33,536 - INFO -################# Creating Vector Store Pipeline ######################
+2025-07-24 23:18:33,536 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\CLEFT LIP\CLEFT LIP.pdf
+2025-07-24 23:18:33,577 - INFO -PDF loaded successfully with page metadata.
+2025-07-24 23:18:33,577 - INFO -Creating Vector Store: CLEFT LIP
+2025-07-24 23:18:34,262 - INFO -Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-24 23:18:35,531 - INFO -Creating Vector Store SUCCESSFULLY
+2025-07-24 23:18:35,531 - INFO -################# Vector Store created successfully ###############
+2025-07-24 23:18:35,532 - INFO -################# Summarizing ######################
+2025-07-24 23:18:35,532 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\CLEFT LIP\CLEFT LIP.pdf
+2025-07-24 23:18:35,548 - INFO -PDF loaded successfully with page metadata.
+2025-07-24 23:18:42,140 - INFO -################# Summarizing SUCCESSFULLY ######################
+2025-07-24 23:19:10,383 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-24 23:19:10,467 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-24 23:19:15,861 - INFO -Get images from PDF to show in Streamlit
+2025-07-24 23:19:15,861 - INFO -Images already exist
+2025-07-24 23:19:15,904 - INFO -Loading existing images successfully
+2025-07-24 23:19:16,098 - INFO -Creating RAG chain
+2025-07-24 23:19:16,919 - INFO -RAG chain created SUCCESFULLY
+2025-07-24 23:19:21,222 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"

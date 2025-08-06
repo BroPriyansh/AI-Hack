@@ -40,5 +40,6 @@ def build_rag_chain(retriever, assistant, model, api_key):
         logger.info("RAG chain created SUCCESFULLY")
         return answer
     except Exception as e:
-            logger.error(f"Error using RAG Chain: {e}")
-            raise CustomException("Error using RAG Chain",e)
+        logger.error(f"Error using RAG Chain: {e}")
+        import sys
+        raise CustomException("Error using RAG Chain", sys)

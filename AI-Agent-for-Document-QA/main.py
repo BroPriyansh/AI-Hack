@@ -219,7 +219,8 @@ if uploaded_file:
 
             except Exception as e:
                 logger.error(f"Error while processing document in Streamlit: {e}")
-                raise CustomException("Error while processing document in Streamlit", e)
+                import sys
+                raise CustomException("Error while processing document in Streamlit", sys)
 
 # Assistant and LLM selection in a card
 with st.container():
@@ -277,7 +278,8 @@ with st.container():
 
             except Exception as e:
                 logger.error(f"Error while answering question: {e}")
-                raise CustomException("Error while answering question in Streamlit", e)
+                import sys
+                raise CustomException("Error while answering question in Streamlit", sys)
     st.markdown("</div>", unsafe_allow_html=True)
 
 # About section at the bottom

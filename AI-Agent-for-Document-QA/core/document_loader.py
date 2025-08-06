@@ -21,7 +21,8 @@ def load_and_split_document(file_path: str) -> list:
 
     except Exception as e:
         logger.error(f"Error while loading and splitting document: {e}")
-        raise CustomException("Error while loading and splitting document", e)
+        import sys
+        raise CustomException("Error while loading and splitting document", sys)
 
 
 def _load_pdf_with_metadata(file_path: str) -> list:
@@ -42,7 +43,8 @@ def _load_pdf_with_metadata(file_path: str) -> list:
         logger.info("PDF loaded successfully with page metadata.")
         return documents
     except Exception as e:
-        raise CustomException("Error while processing PDF", e)
+        import sys
+        raise CustomException("Error while processing PDF", sys)
 
 
 def _load_docx_with_metadata(file_path: str) -> list:
@@ -60,4 +62,5 @@ def _load_docx_with_metadata(file_path: str) -> list:
         logger.info("DOCX loaded successfully with section metadata.")
         return documents
     except Exception as e:
-        raise CustomException("Error while processing DOCX", e)
+        import sys
+        raise CustomException("Error while processing DOCX", sys)

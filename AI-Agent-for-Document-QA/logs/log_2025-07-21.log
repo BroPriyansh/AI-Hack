@@ -26,3 +26,31 @@
 2025-07-21 21:54:12,955 - INFO -Creating RAG chain
 2025-07-21 21:54:13,860 - INFO -RAG chain created SUCCESFULLY
 2025-07-21 21:54:23,437 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-21 22:27:06,211 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-21 22:27:16,842 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-21 22:27:21,220 - INFO -Get images from PDF to show in Streamlit
+2025-07-21 22:27:21,221 - INFO -Images already exist
+2025-07-21 22:27:26,030 - INFO -Loading existing images successfully
+2025-07-21 22:27:26,633 - INFO -Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-21 22:27:30,834 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-21 22:27:35,166 - INFO -Get images from PDF to show in Streamlit
+2025-07-21 22:27:35,167 - INFO -Images already exist
+2025-07-21 22:27:39,944 - INFO -Loading existing images successfully
+2025-07-21 22:27:39,991 - INFO -################# Creating Vector Store Pipeline ######################
+2025-07-21 22:27:39,991 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\BAJHLIP23020V012223\BAJHLIP23020V012223.pdf
+2025-07-21 22:27:40,152 - INFO -PDF loaded successfully with page metadata.
+2025-07-21 22:27:40,152 - INFO -Creating Vector Store: BAJHLIP23020V012223
+2025-07-21 22:27:40,191 - INFO -Creating Vector Store SUCCESSFULLY
+2025-07-21 22:27:40,191 - INFO -################# Vector Store created successfully ###############
+2025-07-21 22:27:40,191 - INFO -################# Summarizing ######################
+2025-07-21 22:27:40,191 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\BAJHLIP23020V012223\BAJHLIP23020V012223.pdf
+2025-07-21 22:27:40,315 - INFO -PDF loaded successfully with page metadata.
+2025-07-21 22:27:46,714 - INFO -################# Summarizing SUCCESSFULLY ######################
+2025-07-21 22:28:01,086 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-21 22:28:01,294 - INFO -Load pretrained SentenceTransformer: BAAI/bge-small-en
+2025-07-21 22:28:05,309 - INFO -Get images from PDF to show in Streamlit
+2025-07-21 22:28:05,309 - INFO -Images already exist
+2025-07-21 22:28:09,750 - INFO -Loading existing images successfully
+2025-07-21 22:28:10,031 - INFO -Creating RAG chain
+2025-07-21 22:28:10,881 - INFO -RAG chain created SUCCESFULLY
+2025-07-21 22:28:17,526 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
