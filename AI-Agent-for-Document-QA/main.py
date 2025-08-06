@@ -282,6 +282,7 @@ with st.container():
             except Exception as e:
                 logger.error(f"Error while answering question: {e}")
                 import sys
+                st.error(f"❗ Error while answering question: {e}")
                 raise CustomException("Error while answering question in Streamlit", sys)
     st.markdown("</div>", unsafe_allow_html=True)
 
