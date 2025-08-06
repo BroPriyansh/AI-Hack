@@ -129,7 +129,9 @@ st.markdown("""
 <hr style='border: none; border-top: 2px solid #a78bfa; margin: 1.2em 0 2em 0;'>
 """, unsafe_allow_html=True)
 
-embedding_model = HuggingFaceEmbeddings(model_name="BAAI/bge-small-en", model_kwargs={"device": "cpu"})
+import os
+os.environ["CUDA_VISIBLE_DEVICES"] = ""
+embedding_model = HuggingFaceEmbeddings(model_name="BAAI/bge-small-en")
 
 # Sidebar enhancements
 st.sidebar.markdown("""
