@@ -1,6 +1,6 @@
 import fitz
 from docx import Document as DocxDocument
-from langchain.schema import Document
+from langchain_core.documents import Document
 from pathlib import Path
 from src.logger import get_logger
 from src.custom_exception import CustomException

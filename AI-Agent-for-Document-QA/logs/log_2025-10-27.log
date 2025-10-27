@@ -1,0 +1,355 @@
+2025-10-27 20:47:44,749 - WARNING -From C:\Users\priya\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-10-27 20:49:27,210 - WARNING -From C:\Users\priya\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-10-27 20:53:22,620 - WARNING -From C:\Users\priya\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-10-27 20:53:24,791 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 20:53:24,791 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 20:53:31,468 - WARNING -Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-10-27 20:53:58,673 - WARNING -From C:\Users\priya\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-10-27 20:56:26,203 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 20:56:26,203 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 20:56:34,834 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 20:56:34,839 - INFO -Images do not exist, converting PDF to images
+2025-10-27 20:56:35,751 - INFO -Converting PDF to images successfully
+2025-10-27 20:56:48,730 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 20:56:48,731 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 20:56:57,442 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 20:56:57,446 - INFO -Images already exist
+2025-10-27 20:56:57,596 - INFO -Loading existing images successfully
+2025-10-27 20:56:57,604 - INFO -################# Creating Vector Store Pipeline ######################
+2025-10-27 20:56:57,605 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\converted_text\converted_text.pdf
+2025-10-27 20:56:57,676 - INFO -PDF loaded successfully with page metadata.
+2025-10-27 20:56:57,677 - INFO -Creating Vector Store (FAISS, in-memory): converted_text
+2025-10-27 20:56:58,903 - INFO -Loading faiss with AVX2 support.
+2025-10-27 20:56:59,522 - INFO -Successfully loaded faiss with AVX2 support.
+2025-10-27 20:56:59,542 - INFO -Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-10-27 20:56:59,544 - INFO -Creating Vector Store SUCCESSFULLY (FAISS, in-memory)
+2025-10-27 20:56:59,544 - INFO -################# Vector Store created successfully ###############
+2025-10-27 20:56:59,544 - INFO -################# Summarizing ######################
+2025-10-27 20:56:59,544 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\converted_text\converted_text.pdf
+2025-10-27 20:56:59,583 - INFO -PDF loaded successfully with page metadata.
+2025-10-27 20:57:05,363 - WARNING -Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-10-27 20:57:16,719 - INFO -################# Summarizing SUCCESSFULLY ######################
+2025-10-27 20:57:44,730 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 20:57:44,730 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 20:57:44,937 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 20:57:44,937 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 20:57:56,129 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 20:57:56,130 - INFO -Images already exist
+2025-10-27 20:57:56,278 - INFO -Loading existing images successfully
+2025-10-27 20:57:57,379 - INFO -Creating RAG chain
+2025-10-27 20:58:00,079 - INFO -RAG chain created SUCCESFULLY
+2025-10-27 20:58:00,652 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-10-27 20:58:00,659 - ERROR -Error while answering question: Error code: 401 - {'error': {'message': 'No auth credentials found', 'code': 401}}
+2025-10-27 20:59:17,012 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 20:59:17,012 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 20:59:35,942 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 20:59:35,942 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 20:59:41,880 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 20:59:41,882 - INFO -Images already exist
+2025-10-27 20:59:42,031 - INFO -Loading existing images successfully
+2025-10-27 20:59:46,695 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 20:59:46,695 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 20:59:52,911 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 20:59:52,913 - INFO -Images already exist
+2025-10-27 20:59:53,051 - INFO -Loading existing images successfully
+2025-10-27 20:59:53,058 - INFO -################# Creating Vector Store Pipeline ######################
+2025-10-27 20:59:53,058 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\converted_text\converted_text.pdf
+2025-10-27 20:59:53,114 - INFO -PDF loaded successfully with page metadata.
+2025-10-27 20:59:53,116 - INFO -Creating Vector Store (FAISS, in-memory): converted_text
+2025-10-27 20:59:53,365 - INFO -Creating Vector Store SUCCESSFULLY (FAISS, in-memory)
+2025-10-27 20:59:53,367 - INFO -################# Vector Store created successfully ###############
+2025-10-27 20:59:53,367 - INFO -################# Summarizing ######################
+2025-10-27 20:59:53,367 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\converted_text\converted_text.pdf
+2025-10-27 20:59:53,397 - INFO -PDF loaded successfully with page metadata.
+2025-10-27 21:00:04,288 - INFO -################# Summarizing SUCCESSFULLY ######################
+2025-10-27 21:00:14,011 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 21:00:14,011 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 21:00:14,223 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 21:00:14,223 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 21:00:21,785 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 21:00:21,787 - INFO -Images already exist
+2025-10-27 21:00:21,942 - INFO -Loading existing images successfully
+2025-10-27 21:00:21,983 - INFO -Creating RAG chain
+2025-10-27 21:00:21,984 - INFO -RAG chain created SUCCESFULLY
+2025-10-27 21:00:23,424 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-10-27 21:00:23,426 - ERROR -Error while answering question: Error code: 401 - {'error': {'message': 'No auth credentials found', 'code': 401}}
+2025-10-27 21:02:12,123 - WARNING -Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-10-27 21:03:53,317 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 21:03:53,317 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 21:04:13,973 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 21:04:13,973 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 21:04:19,954 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 21:04:19,957 - INFO -Images do not exist, converting PDF to images
+2025-10-27 21:04:20,153 - INFO -Converting PDF to images successfully
+2025-10-27 21:04:24,490 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 21:04:24,490 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 21:04:34,663 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 21:04:34,664 - INFO -Images already exist
+2025-10-27 21:04:34,681 - INFO -Loading existing images successfully
+2025-10-27 21:04:34,687 - INFO -################# Creating Vector Store Pipeline ######################
+2025-10-27 21:04:34,688 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\ResumetoUse\ResumetoUse.pdf
+2025-10-27 21:04:34,759 - INFO -PDF loaded successfully with page metadata.
+2025-10-27 21:04:34,759 - INFO -Creating Vector Store (FAISS, in-memory): ResumetoUse
+2025-10-27 21:04:34,810 - INFO -Creating Vector Store SUCCESSFULLY (FAISS, in-memory)
+2025-10-27 21:04:34,811 - INFO -################# Vector Store created successfully ###############
+2025-10-27 21:04:34,811 - INFO -################# Summarizing ######################
+2025-10-27 21:04:34,811 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\ResumetoUse\ResumetoUse.pdf
+2025-10-27 21:04:34,851 - INFO -PDF loaded successfully with page metadata.
+2025-10-27 21:04:45,613 - INFO -################# Summarizing SUCCESSFULLY ######################
+2025-10-27 21:04:55,672 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 21:04:55,673 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 21:04:55,902 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 21:04:55,902 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 21:05:03,468 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 21:05:03,470 - INFO -Images already exist
+2025-10-27 21:05:04,297 - INFO -Loading existing images successfully
+2025-10-27 21:05:04,342 - INFO -Creating RAG chain
+2025-10-27 21:05:04,343 - INFO -RAG chain created SUCCESFULLY
+2025-10-27 21:05:04,694 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-10-27 21:05:04,733 - ERROR -Error while answering question: Error code: 401 - {'error': {'message': 'No auth credentials found', 'code': 401}}
+2025-10-27 21:08:55,870 - WARNING -From C:\Users\priya\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-10-27 21:08:59,254 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 21:08:59,255 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 21:09:09,086 - WARNING -From C:\Users\priya\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-10-27 21:09:24,831 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 21:09:24,831 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 21:09:30,764 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 21:09:30,767 - INFO -Images already exist
+2025-10-27 21:09:30,812 - INFO -Loading existing images successfully
+2025-10-27 21:09:43,740 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 21:09:43,740 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 21:09:53,569 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 21:09:53,571 - INFO -Images already exist
+2025-10-27 21:09:53,589 - INFO -Loading existing images successfully
+2025-10-27 21:09:53,595 - INFO -################# Creating Vector Store Pipeline ######################
+2025-10-27 21:09:53,597 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\ResumetoUse\ResumetoUse.pdf
+2025-10-27 21:09:53,675 - INFO -PDF loaded successfully with page metadata.
+2025-10-27 21:09:53,675 - INFO -Creating Vector Store (FAISS, in-memory): ResumetoUse
+2025-10-27 21:09:54,312 - INFO -Loading faiss with AVX2 support.
+2025-10-27 21:09:54,379 - INFO -Successfully loaded faiss with AVX2 support.
+2025-10-27 21:09:54,397 - INFO -Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-10-27 21:09:54,398 - INFO -Creating Vector Store SUCCESSFULLY (FAISS, in-memory)
+2025-10-27 21:09:54,398 - INFO -################# Vector Store created successfully ###############
+2025-10-27 21:09:54,398 - INFO -################# Summarizing ######################
+2025-10-27 21:09:54,398 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\ResumetoUse\ResumetoUse.pdf
+2025-10-27 21:09:54,436 - INFO -PDF loaded successfully with page metadata.
+2025-10-27 21:10:05,239 - INFO -################# Summarizing SUCCESSFULLY ######################
+2025-10-27 21:10:16,857 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 21:10:16,857 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 21:10:18,281 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 21:10:18,281 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 21:10:26,745 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 21:10:26,748 - INFO -Images already exist
+2025-10-27 21:10:26,765 - INFO -Loading existing images successfully
+2025-10-27 21:10:26,888 - INFO -Creating RAG chain
+2025-10-27 21:10:29,176 - INFO -RAG chain created SUCCESFULLY
+2025-10-27 21:10:31,670 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 21:10:31,671 - INFO -Retrying request to /chat/completions in 0.391098 seconds
+2025-10-27 21:10:33,559 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 21:10:33,561 - INFO -Retrying request to /chat/completions in 0.847394 seconds
+2025-10-27 21:10:36,355 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 21:10:36,357 - ERROR -Error while answering question: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'deepseek/deepseek-chat-v3-0324:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'Chutes'}}, 'user_id': 'user_34efwp651jMPvXzdjx4DF9mkj7O'}
+2025-10-27 21:55:09,987 - WARNING -From C:\Users\priya\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-10-27 21:55:12,955 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 21:55:12,956 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 21:55:22,478 - WARNING -From C:\Users\priya\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-10-27 21:55:41,980 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 21:55:41,980 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 21:55:48,279 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 21:55:48,282 - INFO -Images already exist
+2025-10-27 21:55:48,468 - INFO -Loading existing images successfully
+2025-10-27 21:55:59,729 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 21:55:59,729 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 21:56:08,522 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 21:56:08,523 - INFO -Images already exist
+2025-10-27 21:56:08,667 - INFO -Loading existing images successfully
+2025-10-27 21:56:08,676 - INFO -################# Creating Vector Store Pipeline ######################
+2025-10-27 21:56:08,676 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\converted_text\converted_text.pdf
+2025-10-27 21:56:08,731 - INFO -PDF loaded successfully with page metadata.
+2025-10-27 21:56:08,732 - INFO -Creating Vector Store (FAISS, in-memory): converted_text
+2025-10-27 21:56:09,343 - INFO -Loading faiss with AVX2 support.
+2025-10-27 21:56:09,395 - INFO -Successfully loaded faiss with AVX2 support.
+2025-10-27 21:56:09,412 - INFO -Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-10-27 21:56:09,414 - INFO -Creating Vector Store SUCCESSFULLY (FAISS, in-memory)
+2025-10-27 21:56:09,414 - INFO -################# Vector Store created successfully ###############
+2025-10-27 21:56:09,414 - INFO -################# Summarizing ######################
+2025-10-27 21:56:09,414 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\converted_text\converted_text.pdf
+2025-10-27 21:56:09,445 - INFO -PDF loaded successfully with page metadata.
+2025-10-27 21:56:21,441 - INFO -################# Summarizing SUCCESSFULLY ######################
+2025-10-27 21:56:37,610 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 21:56:37,612 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 21:56:37,823 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 21:56:37,823 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 21:56:44,413 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 21:56:44,415 - INFO -Images already exist
+2025-10-27 21:56:44,567 - INFO -Loading existing images successfully
+2025-10-27 21:56:44,698 - INFO -Creating RAG chain
+2025-10-27 21:56:46,475 - INFO -RAG chain created SUCCESFULLY
+2025-10-27 21:56:48,564 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 21:56:48,565 - INFO -Retrying request to /chat/completions in 0.495926 seconds
+2025-10-27 21:56:49,898 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 21:56:49,898 - INFO -Retrying request to /chat/completions in 0.864336 seconds
+2025-10-27 21:56:53,577 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 21:56:53,579 - ERROR -Error while answering question: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'deepseek/deepseek-chat-v3-0324:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'Chutes'}}, 'user_id': 'user_34efwp651jMPvXzdjx4DF9mkj7O'}
+2025-10-27 22:09:36,374 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 22:09:36,374 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 22:09:49,846 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 22:09:49,846 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 22:09:54,944 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 22:09:54,946 - INFO -Images already exist
+2025-10-27 22:09:54,958 - INFO -Loading existing images successfully
+2025-10-27 22:10:00,893 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 22:10:00,893 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 22:10:05,936 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 22:10:05,936 - INFO -Images already exist
+2025-10-27 22:10:05,951 - INFO -Loading existing images successfully
+2025-10-27 22:10:05,959 - INFO -################# Creating Vector Store Pipeline ######################
+2025-10-27 22:10:05,959 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\ResumetoUse\ResumetoUse.pdf
+2025-10-27 22:10:06,041 - INFO -PDF loaded successfully with page metadata.
+2025-10-27 22:10:06,041 - INFO -Creating Vector Store (FAISS, in-memory): ResumetoUse
+2025-10-27 22:10:06,085 - INFO -Creating Vector Store SUCCESSFULLY (FAISS, in-memory)
+2025-10-27 22:10:06,085 - INFO -################# Vector Store created successfully ###############
+2025-10-27 22:10:06,085 - INFO -################# Summarizing ######################
+2025-10-27 22:10:06,086 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\ResumetoUse\ResumetoUse.pdf
+2025-10-27 22:10:06,110 - INFO -PDF loaded successfully with page metadata.
+2025-10-27 22:10:11,856 - INFO -################# Summarizing SUCCESSFULLY ######################
+2025-10-27 22:10:26,083 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 22:10:26,083 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 22:10:26,305 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 22:10:26,305 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 22:10:32,132 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 22:10:32,133 - INFO -Images already exist
+2025-10-27 22:10:32,149 - INFO -Loading existing images successfully
+2025-10-27 22:10:32,177 - INFO -Creating RAG chain
+2025-10-27 22:10:32,178 - INFO -RAG chain created SUCCESFULLY
+2025-10-27 22:10:36,056 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:10:36,057 - INFO -Retrying request to /chat/completions in 0.379272 seconds
+2025-10-27 22:10:38,298 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:10:38,299 - INFO -Retrying request to /chat/completions in 0.833880 seconds
+2025-10-27 22:10:40,197 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:10:42,518 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:10:42,519 - INFO -Retrying request to /chat/completions in 0.381280 seconds
+2025-10-27 22:10:44,679 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:10:44,680 - INFO -Retrying request to /chat/completions in 0.859391 seconds
+2025-10-27 22:10:47,387 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:10:53,814 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:10:53,815 - INFO -Retrying request to /chat/completions in 0.446580 seconds
+2025-10-27 22:10:55,610 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:10:55,610 - INFO -Retrying request to /chat/completions in 0.802961 seconds
+2025-10-27 22:10:58,023 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:11:24,522 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 22:11:24,522 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 22:11:25,712 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 22:11:25,713 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 22:11:33,763 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 22:11:33,763 - INFO -Images already exist
+2025-10-27 22:11:33,777 - INFO -Loading existing images successfully
+2025-10-27 22:11:33,809 - INFO -Creating RAG chain
+2025-10-27 22:11:33,810 - INFO -RAG chain created SUCCESFULLY
+2025-10-27 22:11:36,503 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-10-27 22:11:36,506 - ERROR -Error while streaming answer: Error code: 403 - {'error': {'message': 'meta-llama/llama-3.3-8b-instruct:free requires moderation on Meta. Your input was flagged for "misc". No credits were charged.', 'code': 403, 'metadata': {'reasons': ['misc'], 'flagged_input': 'You are an assistant for . Use the retrieved conte...est of my knowledge. \n\n                    Answer:', 'provider_name': None, 'model_slug': 'meta-llama/llama-3.3-8b-instruct:free'}}, 'user_id': 'user_34efwp651jMPvXzdjx4DF9mkj7O'}
+2025-10-27 22:11:46,770 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 22:11:46,770 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 22:11:53,779 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 22:11:53,780 - INFO -Images already exist
+2025-10-27 22:11:53,795 - INFO -Loading existing images successfully
+2025-10-27 22:11:55,839 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 22:11:55,839 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 22:12:00,165 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 22:12:00,166 - INFO -Images already exist
+2025-10-27 22:12:00,179 - INFO -Loading existing images successfully
+2025-10-27 22:12:00,208 - INFO -Creating RAG chain
+2025-10-27 22:12:00,209 - INFO -RAG chain created SUCCESFULLY
+2025-10-27 22:12:02,100 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:12:02,101 - INFO -Retrying request to /chat/completions in 0.433277 seconds
+2025-10-27 22:12:03,527 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:12:03,528 - INFO -Retrying request to /chat/completions in 0.903150 seconds
+2025-10-27 22:12:06,092 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:12:08,640 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:12:08,640 - INFO -Retrying request to /chat/completions in 0.468791 seconds
+2025-10-27 22:12:09,936 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:12:09,936 - INFO -Retrying request to /chat/completions in 0.751334 seconds
+2025-10-27 22:12:12,176 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:12:15,749 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:12:15,749 - INFO -Retrying request to /chat/completions in 0.466996 seconds
+2025-10-27 22:12:17,842 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:12:17,843 - INFO -Retrying request to /chat/completions in 0.820519 seconds
+2025-10-27 22:12:19,848 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:15:24,482 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 22:15:24,482 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 22:15:43,961 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 22:15:43,961 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 22:15:49,458 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 22:15:49,459 - INFO -Images already exist
+2025-10-27 22:15:49,583 - INFO -Loading existing images successfully
+2025-10-27 22:15:54,588 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 22:15:54,588 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 22:15:59,281 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 22:15:59,282 - INFO -Images already exist
+2025-10-27 22:15:59,397 - INFO -Loading existing images successfully
+2025-10-27 22:15:59,400 - INFO -################# Creating Vector Store Pipeline ######################
+2025-10-27 22:15:59,400 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\converted_text\converted_text.pdf
+2025-10-27 22:15:59,441 - INFO -PDF loaded successfully with page metadata.
+2025-10-27 22:15:59,441 - INFO -Creating Vector Store (FAISS, in-memory): converted_text
+2025-10-27 22:15:59,677 - INFO -Creating Vector Store SUCCESSFULLY (FAISS, in-memory)
+2025-10-27 22:15:59,677 - INFO -################# Vector Store created successfully ###############
+2025-10-27 22:15:59,677 - INFO -################# Summarizing ######################
+2025-10-27 22:15:59,678 - INFO -Loading PDF using PyMuPDF: tmp\vector_store\converted_text\converted_text.pdf
+2025-10-27 22:15:59,702 - INFO -PDF loaded successfully with page metadata.
+2025-10-27 22:16:05,669 - INFO -################# Summarizing SUCCESSFULLY ######################
+2025-10-27 22:16:14,521 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 22:16:14,521 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 22:16:14,731 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 22:16:14,731 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 22:16:19,130 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 22:16:19,131 - INFO -Images already exist
+2025-10-27 22:16:19,246 - INFO -Loading existing images successfully
+2025-10-27 22:16:19,291 - INFO -Creating RAG chain
+2025-10-27 22:16:19,293 - INFO -RAG chain created SUCCESFULLY
+2025-10-27 22:16:21,531 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:16:21,531 - INFO -Retrying request to /chat/completions in 0.399401 seconds
+2025-10-27 22:16:22,967 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:16:22,968 - INFO -Retrying request to /chat/completions in 0.916596 seconds
+2025-10-27 22:16:25,774 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:16:28,057 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:16:28,058 - INFO -Retrying request to /chat/completions in 0.454595 seconds
+2025-10-27 22:16:29,860 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:16:29,861 - INFO -Retrying request to /chat/completions in 0.845161 seconds
+2025-10-27 22:16:32,005 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:16:35,790 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:16:35,791 - INFO -Retrying request to /chat/completions in 0.392544 seconds
+2025-10-27 22:16:38,023 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:16:38,023 - INFO -Retrying request to /chat/completions in 0.905649 seconds
+2025-10-27 22:16:40,528 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-27 22:17:05,916 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 22:17:05,916 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 22:17:10,870 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 22:17:10,871 - INFO -Images already exist
+2025-10-27 22:17:10,987 - INFO -Loading existing images successfully
+2025-10-27 22:17:13,985 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 22:17:13,985 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 22:17:24,214 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 22:17:24,215 - INFO -Images already exist
+2025-10-27 22:17:24,329 - INFO -Loading existing images successfully
+2025-10-27 22:17:24,360 - INFO -Creating RAG chain
+2025-10-27 22:17:24,361 - INFO -RAG chain created SUCCESFULLY
+2025-10-27 22:17:25,600 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 404 Not Found"
+2025-10-27 22:17:25,601 - ERROR -Error while streaming answer: Error code: 404 - {'error': {'message': 'No endpoints found for qwen/qwen3-0.6b-04-28:free.', 'code': 404}, 'user_id': 'user_34efwp651jMPvXzdjx4DF9mkj7O'}
+2025-10-27 22:17:36,988 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 22:17:36,988 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 22:17:38,495 - INFO -Use pytorch device_name: cuda:0
+2025-10-27 22:17:38,495 - INFO -Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-27 22:17:45,269 - INFO -Get images from PDF to show in Streamlit
+2025-10-27 22:17:45,270 - INFO -Images already exist
+2025-10-27 22:17:45,393 - INFO -Loading existing images successfully
+2025-10-27 22:17:45,420 - INFO -Creating RAG chain
+2025-10-27 22:17:45,421 - INFO -RAG chain created SUCCESFULLY
+2025-10-27 22:17:50,156 - INFO -HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"

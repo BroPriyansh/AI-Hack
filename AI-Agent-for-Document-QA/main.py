@@ -3,6 +3,7 @@ import os
 from dotenv import load_dotenv
 import streamlit as st
 from pathlib import Path
+import time
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 
@@ -271,19 +272,43 @@ with st.container():
                         st.markdown(f"<div class='source-snippet'>{doc.page_content[:500]}</div>", unsafe_allow_html=True)
                     st.markdown("<div style='margin-top: 1.2em; font-size: 1.15rem; font-weight: 600; color: #a78bfa;'>🟢 <u>Answer</u></div>", unsafe_allow_html=True)
 
+                    # Refresh API key from environment in case user added it after app start
+                    try:
+                        pipeline.api_key = os.getenv("OPENROUTER_API_KEY") or pipeline.api_key
+                    except Exception:
+                        pass
+                    if not getattr(pipeline, "api_key", None):
+                        st.error("❗ OPENROUTER_API_KEY not found. Add it to your .env and rerun the app.")
+                        st.stop()
+
                     chain = pipeline.get_chain(retriever, assistant, LLM_used)
                     response_placeholder = st.empty()
                     answer = ""
-                    for chunk in chain.stream(question):
-                        answer += chunk
-                        escaped_answer = answer.replace('$', '\\$')
-                        response_placeholder.markdown(f"<div class='answer-box'>{escaped_answer}</div>", unsafe_allow_html=True)
+                    success = False
+                    for attempt in range(3):
+                        try:
+                            for chunk in chain.stream(question):
+                                answer += chunk
+                                escaped_answer = answer.replace('$', '\\$')
+                                response_placeholder.markdown(f"<div class='answer-box'>{escaped_answer}</div>", unsafe_allow_html=True)
+                            success = True
+                            break
+                        except Exception as e:
+                            if "429" in str(e) or "rate limit" in str(e).lower():
+                                time.sleep(2 ** attempt)
+                                continue
+                            else:
+                                logger.error(f"Error while streaming answer: {e}")
+                                st.error(f"❗ Error from model: {e}")
+                                break
+                    if not success and answer == "":
+                        st.warning("The selected model may be rate-limited. Try again or choose a different model.")
 
             except Exception as e:
                 logger.error(f"Error while answering question: {e}")
                 import sys
                 st.error(f"❗ Error while answering question: {e}")
-                raise CustomException("Error while answering question in Streamlit", sys)
+                # Do not raise to avoid crashing the Streamlit app
     st.markdown("</div>", unsafe_allow_html=True)
 
 # About section at the bottom
